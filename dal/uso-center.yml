@@ -1,0 +1,47 @@
+name: USO Center
+location: After security, near Dallas Cowboys Club
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "32.845643685411915"
+longitude: "-96.85004264228772"
+terminal: ""
+hours:
+  days:
+    - day: Monday
+      startTime: 06:30
+      endTime: 22:30
+    - day: Tuesday
+      startTime: 06:30
+      endTime: 22:30
+    - day: Wednesday
+      startTime: 06:30
+      endTime: 22:30
+    - day: Thursday
+      startTime: 06:30
+      endTime: 22:30
+    - day: Friday
+      startTime: 06:30
+      endTime: 18:30
+    - day: Saturday
+      startTime: 06:30
+      endTime: 18:30
+    - day: Sunday
+      startTime: 06:30
+      endTime: 18:30
+  timezone: America/Chicago
+amenities:
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

@@ -1,0 +1,55 @@
+name: Capital One Lounge
+location: Concourse D, near gate D50
+access:
+  - credential: capital_one_venture_x
+    restrictions: null
+allowsArrivals: false
+operator: Capital One
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "36.08216750984038"
+longitude: "-115.13871696450168"
+terminal: Concourse D
+hours:
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 19:00
+    - day: Tuesday
+      startTime: 07:00
+      endTime: 19:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 19:00
+    - day: Thursday
+      startTime: 07:00
+      endTime: 19:00
+    - day: Friday
+      startTime: 07:00
+      endTime: 19:00
+    - day: Saturday
+      startTime: 07:00
+      endTime: 19:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 19:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - barista_coffee
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+  - Complimentary Cooked-to-order Meals
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

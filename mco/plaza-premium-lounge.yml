@@ -1,0 +1,83 @@
+name: Plaza Premium Lounge
+location: Terminal C, after security, 2nd floor, above Palm Court
+access:
+  - credential: dragon_pass
+    restrictions: null
+  - credential: amex_centurion
+    restrictions: null
+  - credential: amex_platinum
+    restrictions: null
+  - credential: amex_platinum_business
+    restrictions: null
+  - credential: amex_platinum_intl
+    restrictions: null
+  - credential: bank_of_ireland_gold
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+allowsArrivals: false
+operator: Plaza Premium
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Aer Lingus
+  - British Airways
+  - Caribbean Airlines
+  - Discover Airlines
+  - Emirates
+  - Icelandair
+latitude: "28.411606002021156"
+longitude: "-81.31465315818788"
+terminal: Terminal C
+hours:
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 21:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - paid_showers
+  - family_room
+  - conference_rooms
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - phone
+  - bag_locker
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

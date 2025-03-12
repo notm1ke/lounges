@@ -1,0 +1,66 @@
+name: American Express The Centurion Lounge
+location: Main Terminal, Central Concourse, immediately after security
+  checkpoint 3, mezzanine level, behind the Ever Greens restaurant
+access:
+  - credential: amex_centurion
+    restrictions: null
+  - credential: amex_platinum
+    restrictions: null
+  - credential: amex_platinum_business
+    restrictions: null
+  - credential: amex_platinum_intl
+    restrictions: null
+  - credential: amex_delta_reserve
+    restrictions: null
+allowsArrivals: false
+operator: American Express
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "47.44323298501647"
+longitude: "-122.30323791503908"
+terminal: Main Terminal
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Saturday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Sunday
+      startTime: 05:00
+      endTime: 22:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - barista_coffee
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

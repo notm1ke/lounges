@@ -1,0 +1,77 @@
+name: Escape Lounges - The Centurion Studio Partner
+location: Terminal A, near gate 1
+access:
+  - credential: amex_centurion
+    restrictions: null
+  - credential: amex_platinum
+    restrictions: null
+  - credential: amex_platinum_business
+    restrictions: null
+  - credential: amex_platinum_intl
+    restrictions: null
+  - credential: amex_delta_reserve
+    restrictions: null
+  - credential: bank_of_ireland_gold
+    restrictions: null
+  - credential: tav_passport
+    restrictions: null
+  - credential: dragon_pass
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Escape
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Aer Lingus
+latitude: "41.93024494269026"
+longitude: "-72.68497997406615"
+terminal: Terminal A
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 20:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 20:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 20:00
+    - day: Saturday
+      startTime: 05:00
+      endTime: 20:00
+    - day: Sunday
+      startTime: 05:00
+      endTime: 20:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - family_room
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - fax
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Cold Buffet
+  - Complimentary Soups
+  - Complimentary Finger Food
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

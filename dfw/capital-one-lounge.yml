@@ -1,0 +1,69 @@
+name: Capital One Lounge
+location: Terminal D, near gate D22
+access:
+  - credential: capital_one_venture_x
+    restrictions: null
+allowsArrivals: false
+operator: Capital One
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Air France
+  - Austrian
+  - Finnair
+  - KLM
+  - Korean Air
+  - Lufthansa
+  - SWISS
+  - Turkish Airlines
+latitude: "32.897222922774425"
+longitude: "-97.04501509666443"
+terminal: Terminal D
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Saturday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Sunday
+      startTime: 05:00
+      endTime: 22:00
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - family_room
+  - gym
+  - barista_coffee
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - prayer_room
+  - bag_locker
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+  - Premium Drinks For Sale
+closed: false

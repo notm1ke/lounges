@@ -1,0 +1,64 @@
+name: American Express The Centurion Lounge
+location: Terminal D, near gate D12
+access:
+  - credential: amex_centurion
+    restrictions: null
+  - credential: amex_platinum
+    restrictions: null
+  - credential: amex_platinum_business
+    restrictions: null
+  - credential: amex_platinum_intl
+    restrictions: null
+  - credential: amex_delta_reserve
+    restrictions: null
+allowsArrivals: false
+operator: American Express
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "32.895772554261335"
+longitude: "-97.04419970512392"
+terminal: Terminal D
+hours:
+  days:
+    - day: Monday
+      startTime: 05:30
+      endTime: 22:00
+    - day: Tuesday
+      startTime: 05:30
+      endTime: 22:00
+    - day: Wednesday
+      startTime: 05:30
+      endTime: 22:00
+    - day: Thursday
+      startTime: 05:30
+      endTime: 22:00
+    - day: Friday
+      startTime: 05:30
+      endTime: 22:00
+    - day: Saturday
+      startTime: 05:30
+      endTime: 22:00
+    - day: Sunday
+      startTime: 05:30
+      endTime: 22:00
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - family_room
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

@@ -1,0 +1,57 @@
+name: The Club MDW
+location: After security, opposite Food Court
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Airport Dimensions
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "41.78833297243532"
+longitude: "-87.74224527491045"
+terminal: ""
+hours:
+  days:
+    - day: Monday
+      startTime: 04:00
+      endTime: 22:00
+    - day: Tuesday
+      startTime: 04:00
+      endTime: 22:00
+    - day: Wednesday
+      startTime: 04:00
+      endTime: 22:00
+    - day: Thursday
+      startTime: 04:00
+      endTime: 22:00
+    - day: Friday
+      startTime: 04:00
+      endTime: 22:00
+    - day: Saturday
+      startTime: 04:00
+      endTime: 20:00
+    - day: Sunday
+      startTime: 04:00
+      endTime: 22:00
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

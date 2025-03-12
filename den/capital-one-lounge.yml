@@ -1,0 +1,59 @@
+name: Capital One Lounge
+location: Concourse A, near gate A34
+access:
+  - credential: capital_one_venture_x
+    restrictions: null
+allowsArrivals: false
+operator: Capital One
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "39.85382197447153"
+longitude: "-104.67535793781282"
+terminal: Concourse A
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 05:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 05:00
+      endTime: 21:00
+  timezone: America/Denver
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - conference_rooms
+  - private_rooms
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - bag_locker
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+  - Premium Drinks For Sale
+closed: false

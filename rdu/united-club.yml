@@ -1,0 +1,90 @@
+name: United Club
+location: Terminal 2, opposite gates D1-D3
+access:
+  - credential: united_club
+    restrictions: null
+  - credential: military
+    restrictions: null
+  - credential: air_canada_maple_leaf
+    restrictions: When flying a Star Alliance member airline.
+  - credential: united_explorer
+    restrictions: When flying a Star Alliance member airline. Redeem a United Club pass.
+allowsArrivals: false
+operator: United
+alliance: Star Alliance
+allianceLevel: Star Alliance Gold
+allianceMembers:
+  - Aegean
+  - Air Canada
+  - Air China
+  - Air India
+  - Air New Zealand
+  - ANA
+  - Asiana
+  - Austrian
+  - Avianca
+  - Brussels Airlines
+  - Copa Airlines
+  - Croatia Airlines
+  - EGYPTAIR
+  - Ethiopian Airlines
+  - EVA Air
+  - Icelandair
+  - LOT Polish Airlines
+  - Lufthansa
+  - Shenzhen Airlines
+  - Singapore Airlines
+  - South African Airways
+  - SWISS
+  - TAP Air Portugal
+  - Thai Airways
+  - Turkish Airlines
+  - United
+  - Virgin Australia
+latitude: "35.87705420244919"
+longitude: "-78.7940150499344"
+terminal: Terminal 2
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 19:30
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 19:30
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 19:30
+    - day: Thursday
+      startTime: 05:00
+      endTime: 19:30
+    - day: Friday
+      startTime: 05:00
+      endTime: 19:30
+    - day: Saturday
+      startTime: 05:00
+      endTime: 19:30
+    - day: Sunday
+      startTime: 05:00
+      endTime: 19:30
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

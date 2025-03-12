@@ -1,0 +1,64 @@
+name: American Express The Centurion Lounge
+location: Terminal B, near gates 41-59
+access:
+  - credential: amex_centurion
+    restrictions: null
+  - credential: amex_platinum
+    restrictions: null
+  - credential: amex_platinum_business
+    restrictions: null
+  - credential: amex_platinum_intl
+    restrictions: null
+  - credential: amex_delta_reserve
+    restrictions: null
+allowsArrivals: false
+operator: American Express
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "40.77301812978002"
+longitude: "-73.87099742889406"
+terminal: Terminal B
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Saturday
+      startTime: 05:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 05:00
+      endTime: 22:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - family_room
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

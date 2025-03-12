@@ -1,0 +1,48 @@
+name: PGA Tour Grill
+location: Terminal 2, near gate 35
+access:
+  - credential: priority_pass
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "32.73209360235228"
+longitude: "-117.20385432243349"
+terminal: Terminal 2
+hours:
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 21:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions: []
+drinks: []
+closed: false

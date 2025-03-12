@@ -1,0 +1,48 @@
+name: USO Center
+location: Landside (before security), Atrium, between the North and South
+  Domestic Terminals, 3rd floor
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "33.640749503336245"
+longitude: "-84.44310714398819"
+terminal: Landside (before security)
+hours:
+  days:
+    - day: Monday
+      startTime: 08:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 08:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 08:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 08:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 08:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 10:00
+      endTime: 19:00
+    - day: Sunday
+      startTime: 10:00
+      endTime: 19:00
+  timezone: America/New_York
+amenities:
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

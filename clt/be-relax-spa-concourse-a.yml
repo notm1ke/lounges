@@ -1,0 +1,48 @@
+name: Be Relax Spa
+location: Concourse A, after security, Concourse A/B Connector
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "35.22053155080954"
+longitude: "-80.94611497195561"
+terminal: Concourse A
+hours:
+  days:
+    - day: Monday
+      startTime: 09:00
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 09:00
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 09:00
+      endTime: 20:00
+    - day: Thursday
+      startTime: 09:00
+      endTime: 20:00
+    - day: Friday
+      startTime: 09:00
+      endTime: 20:00
+    - day: Saturday
+      startTime: 09:00
+      endTime: 20:00
+    - day: Sunday
+      startTime: 09:00
+      endTime: 20:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - complimentary_wifi
+  - paid_spa
+  - air_conditioning
+  - accessible
+foodOptions: []
+drinks: []
+closed: false

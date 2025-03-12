@@ -1,0 +1,79 @@
+name: American Airlines Admirals Club
+location: Terminal A, opposite gate A8, upper level
+access:
+  - credential: military
+    restrictions: null
+  - credential: american_admirals_club
+    restrictions: null
+  - credential: alaska_plus
+    restrictions: null
+  - credential: qantas_club
+    restrictions: When flying Qantas or JetStar.
+  - credential: american_citi_executive
+    restrictions: null
+allowsArrivals: false
+operator: American Airlines
+alliance: OneWorld
+allianceLevel: oneworld Sapphire
+allianceMembers:
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Finnair
+  - Iberia
+  - Japan Airlines
+  - Malaysia Airlines
+  - Qantas
+  - Qatar Airways
+  - Royal Air Maroc
+  - Royal Jordanian
+  - SriLankan
+latitude: "40.68358328727231"
+longitude: "-74.18703633875793"
+terminal: Terminal A
+hours:
+  days:
+    - day: Monday
+      startTime: 04:00
+      endTime: 20:30
+    - day: Tuesday
+      startTime: 04:00
+      endTime: 19:30
+    - day: Wednesday
+      startTime: 04:00
+      endTime: 19:30
+    - day: Thursday
+      startTime: 04:00
+      endTime: 20:30
+    - day: Friday
+      startTime: 04:00
+      endTime: 20:30
+    - day: Saturday
+      startTime: 04:00
+      endTime: 19:30
+    - day: Sunday
+      startTime: 04:00
+      endTime: 20:30
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - conference_rooms
+  - paid_conference_rooms
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

@@ -1,0 +1,48 @@
+name: USO Center
+location: Landside (before security), opposite car rental desks, behind Welcome Desk
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "30.49567115610701"
+longitude: "-86.54977802398872"
+terminal: ""
+hours:
+  days:
+    - day: Monday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Thursday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Friday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Saturday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Sunday
+      startTime: 08:00
+      endTime: 20:00
+  timezone: America/Chicago
+amenities:
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

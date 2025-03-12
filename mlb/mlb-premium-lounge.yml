@@ -1,0 +1,56 @@
+name: MLB Premium Lounge
+location: After security
+access:
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - TUI UK
+latitude: "28.09809565409965"
+longitude: "-80.63119412930806"
+terminal: ""
+hours:
+  days:
+    - day: Monday
+      startTime: 12:00
+      endTime: 19:00
+    - day: Tuesday
+      startTime: 12:00
+      endTime: 19:00
+    - day: Wednesday
+      startTime: 12:00
+      endTime: 19:00
+    - day: Thursday
+      startTime: 12:00
+      endTime: 19:00
+    - day: Friday
+      startTime: 12:00
+      endTime: 19:00
+    - day: Saturday
+      startTime: 12:00
+      endTime: 19:00
+    - day: Sunday
+      startTime: 12:00
+      endTime: 19:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - complimentary_wifi
+  - family_room
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

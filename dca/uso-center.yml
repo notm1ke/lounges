@@ -1,0 +1,48 @@
+name: USO Center
+location: Landside (before security), Terminal A, opposite Lost and Found office
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "38.84853177134071"
+longitude: "-77.04253271056422"
+terminal: Landside (before security)
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 18:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 18:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 18:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 18:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 18:00
+    - day: Saturday
+      startTime: 08:00
+      endTime: 16:00
+    - day: Sunday
+      startTime: 08:00
+      endTime: 16:00
+  timezone: America/New_York
+amenities:
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

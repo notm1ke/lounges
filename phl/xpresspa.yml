@@ -1,0 +1,46 @@
+name: XpresSpa
+location: Concourse B, near gate B2
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "39.8755542157551"
+longitude: "-75.24399613829141"
+terminal: Concourse B
+hours:
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 21:00
+  timezone: America/New_York
+amenities:
+  - paid_spa
+  - air_conditioning
+  - accessible
+foodOptions: []
+drinks: []
+closed: false

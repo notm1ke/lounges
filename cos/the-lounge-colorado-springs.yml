@@ -1,0 +1,54 @@
+name: The Lounge Colorado Springs
+location: Between gates 4-6
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Global Lounge Network
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "38.798555549593196"
+longitude: "-104.70086036425376"
+terminal: ""
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 14:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 14:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 14:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 14:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 14:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 14:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 14:00
+  timezone: America/Denver
+amenities:
+  - bar
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: false

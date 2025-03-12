@@ -1,0 +1,50 @@
+name: USO Center
+location: Terminal B, landside (before security), baggage claim
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "29.52789225925343"
+longitude: "-98.47297490711699"
+terminal: Terminal B
+hours:
+  days:
+    - day: Monday
+      startTime: 09:00
+      endTime: 17:00
+    - day: Tuesday
+      startTime: 09:00
+      endTime: 17:00
+    - day: Wednesday
+      startTime: 09:00
+      endTime: 17:00
+    - day: Thursday
+      startTime: 09:00
+      endTime: 17:00
+    - day: Friday
+      startTime: 09:00
+      endTime: 17:00
+    - day: Saturday
+      startTime: 09:00
+      endTime: 17:00
+    - day: Sunday
+      startTime: 09:00
+      endTime: 17:00
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+  - bag_locker
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

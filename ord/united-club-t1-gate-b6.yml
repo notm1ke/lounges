@@ -1,0 +1,89 @@
+name: United Club
+location: Terminal 1, Concourse B, near gate B6
+access:
+  - credential: united_club
+    restrictions: null
+  - credential: military
+    restrictions: null
+  - credential: air_canada_maple_leaf
+    restrictions: When flying a Star Alliance member airline.
+  - credential: united_explorer
+    restrictions: When flying a Star Alliance member airline. Redeem a United Club pass.
+allowsArrivals: false
+operator: United
+alliance: Star Alliance
+allianceLevel: Star Alliance Gold
+allianceMembers:
+  - Aegean
+  - Air Canada
+  - Air China
+  - Air India
+  - Air New Zealand
+  - ANA
+  - Asiana
+  - Austrian
+  - Avianca
+  - Brussels Airlines
+  - Copa Airlines
+  - Croatia Airlines
+  - EGYPTAIR
+  - Ethiopian Airlines
+  - EVA Air
+  - LOT Polish Airlines
+  - Lufthansa
+  - Shenzhen Airlines
+  - Singapore Airlines
+  - South African Airways
+  - SWISS
+  - TAP Air Portugal
+  - Thai Airways
+  - Turkish Airlines
+  - United
+  - Virgin Australia
+latitude: "41.97805673668138"
+longitude: "-87.90688419894832"
+terminal: Terminal 1
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 05:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 05:00
+      endTime: 21:00
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

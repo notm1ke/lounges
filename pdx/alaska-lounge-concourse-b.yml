@@ -1,0 +1,74 @@
+name: Alaska Express Lounge
+location: Concourse B, near gate B3
+access:
+  - credential: alaska_plus
+    restrictions: When flying Alaska Airlines.
+  - credential: qantas_club
+    restrictions: When flying Qantas or Jetstar, or Emirates on a flight booked with
+      a Qantas flight number.
+  - credential: american_admirals_club
+    restrictions: Wken flying American or Alaska Airlines.
+allowsArrivals: false
+operator: Alaska Airlines
+alliance: OneWorld
+allianceLevel: oneworld Sapphire
+allianceMembers:
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Finnair
+  - Iberia
+  - Japan Airlines
+  - Malaysia Airlines
+  - Qantas
+  - Qatar Airways
+  - Royal Air Maroc
+  - Royal Jordanian
+  - SriLankan
+latitude: "45.58786243419429"
+longitude: "-122.59388744831087"
+terminal: Concourse B
+hours:
+  days:
+    - day: Monday
+      startTime: 04:30
+      endTime: 12:30
+    - day: Tuesday
+      startTime: 04:30
+      endTime: 12:30
+    - day: Wednesday
+      startTime: 04:30
+      endTime: 12:30
+    - day: Thursday
+      startTime: 04:30
+      endTime: 12:30
+    - day: Friday
+      startTime: 04:30
+      endTime: 12:30
+    - day: Saturday
+      startTime: 04:30
+      endTime: 12:30
+    - day: Sunday
+      startTime: 04:30
+      endTime: 12:30
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Cold Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

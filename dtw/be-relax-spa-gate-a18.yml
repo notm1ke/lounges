@@ -1,0 +1,49 @@
+name: Be Relax Spa
+location: McNamara Terminal, Concourse A, near gate A18
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "42.2044571807589"
+longitude: "-83.3609426021576"
+terminal: McNamara Terminal
+hours:
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 21:00
+  timezone: America/Detroit
+amenities:
+  - bathroom
+  - complimentary_wifi
+  - paid_spa
+  - air_conditioning
+  - accessible
+foodOptions: []
+drinks:
+  - Complimentary Soft Drinks
+closed: false

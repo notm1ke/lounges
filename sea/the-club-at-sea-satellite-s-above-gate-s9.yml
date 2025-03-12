@@ -1,0 +1,74 @@
+name: The Club at SEA
+location: Satellite S, above gate S9
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+  - credential: tav_passport
+    restrictions: null
+allowsArrivals: false
+operator: Airport Dimensions
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Air Tahiti Nui
+  - ANA
+  - China Airlines
+  - Condor
+  - Emirates
+  - EVA Air
+  - Hainan Airlines
+  - Icelandair
+  - Japan Airlines
+  - Korean Air
+  - Lufthansa
+  - Philippine Airlines
+  - Singapore Airlines
+  - Turkish Airlines
+latitude: "47.43917665188804"
+longitude: "-122.30191826820375"
+terminal: Satellite S
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 00:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 00:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 00:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 00:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 00:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 00:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 00:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: false

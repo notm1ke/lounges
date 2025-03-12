@@ -1,0 +1,57 @@
+name: Capital One Lounge
+location: Main Terminal, immediately after the TSA PreCheck security checkpoint
+access:
+  - credential: capital_one_venture_x
+    restrictions: null
+allowsArrivals: false
+operator: Capital One
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "38.951557921208114"
+longitude: "-77.44817373774606"
+terminal: Main Terminal
+hours:
+  days:
+    - day: Monday
+      startTime: 05:30
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 05:30
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 05:30
+      endTime: 21:00
+    - day: Thursday
+      startTime: 05:30
+      endTime: 21:00
+    - day: Friday
+      startTime: 05:30
+      endTime: 21:00
+    - day: Saturday
+      startTime: 05:30
+      endTime: 21:00
+    - day: Sunday
+      startTime: 05:30
+      endTime: 21:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - barista_coffee
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - bag_locker
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+  - Premium Drinks For Sale
+closed: false

@@ -1,0 +1,69 @@
+name: Plaza Premium Lounge
+location: Terminal E, near gate E31
+access:
+  - credential: dragon_pass
+    restrictions: null
+  - credential: amex_centurion
+    restrictions: null
+  - credential: amex_platinum
+    restrictions: null
+  - credential: amex_platinum_business
+    restrictions: null
+  - credential: amex_platinum_intl
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+allowsArrivals: false
+operator: Plaza Premium
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Emirates
+latitude: "32.88860594390232"
+longitude: "-97.03670024871828"
+terminal: Terminal E
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 20:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 20:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 20:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 20:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 20:00
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - phone
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Finger Food
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: false

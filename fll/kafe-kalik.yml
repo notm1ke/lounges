@@ -1,0 +1,48 @@
+name: Kafe Kalik
+location: Terminal 4, near gate G6
+access:
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "26.069428"
+longitude: "-80.142665"
+terminal: Terminal 4
+hours:
+  days:
+    - day: Monday
+      startTime: 10:00
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 10:00
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 10:00
+      endTime: 20:00
+    - day: Thursday
+      startTime: 10:00
+      endTime: 20:00
+    - day: Friday
+      startTime: 10:00
+      endTime: 20:00
+    - day: Saturday
+      startTime: 10:00
+      endTime: 20:00
+    - day: Sunday
+      startTime: 10:00
+      endTime: 20:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions:
+  - Food For Sale
+drinks:
+  - Premium Drinks For Sale
+closed: false

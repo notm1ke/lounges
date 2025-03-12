@@ -1,0 +1,67 @@
+name: American Express The Centurion Lounge
+location: Terminal 2, before all A and B gates, immediately preceding gates
+  B10-B22, level 2
+access:
+  - credential: amex_centurion
+    restrictions: null
+  - credential: amex_platinum
+    restrictions: null
+  - credential: amex_platinum_business
+    restrictions: null
+  - credential: amex_platinum_intl
+    restrictions: null
+  - credential: amex_delta_reserve
+    restrictions: null
+allowsArrivals: false
+operator: American Express
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "38.8515669116528"
+longitude: "-77.04252988100053"
+terminal: Terminal 2
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 05:00
+      endTime: 19:00
+    - day: Sunday
+      startTime: 05:00
+      endTime: 21:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - family_room
+  - conference_rooms
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

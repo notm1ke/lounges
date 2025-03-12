@@ -1,0 +1,66 @@
+name: American Express The Centurion Lounge
+location: Concourse C, near gate C46, mezzanine level
+access:
+  - credential: amex_centurion
+    restrictions: null
+  - credential: amex_platinum
+    restrictions: null
+  - credential: amex_platinum_business
+    restrictions: null
+  - credential: amex_platinum_intl
+    restrictions: null
+  - credential: amex_delta_reserve
+    restrictions: null
+allowsArrivals: false
+operator: American Express
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "39.86302134194235"
+longitude: "-104.67183351516725"
+terminal: Concourse C
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Saturday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Sunday
+      startTime: 05:00
+      endTime: 22:00
+  timezone: America/Denver
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - family_room
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - phone
+foodOptions:
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+  - Complimentary Cooked-to-order Meals
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

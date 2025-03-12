@@ -1,0 +1,48 @@
+name: Brewtop Social
+location: Main Terminal, Concourse B, between Concourses B-C
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "47.44365746691767"
+longitude: "-122.30343103408815"
+terminal: Main Terminal, Concourse B
+hours:
+  days:
+    - day: Monday
+      startTime: 05:30
+      endTime: 00:00
+    - day: Tuesday
+      startTime: 05:30
+      endTime: 00:00
+    - day: Wednesday
+      startTime: 05:30
+      endTime: 00:00
+    - day: Thursday
+      startTime: 05:30
+      endTime: 00:00
+    - day: Friday
+      startTime: 05:30
+      endTime: 00:00
+    - day: Saturday
+      startTime: 05:30
+      endTime: 00:00
+    - day: Sunday
+      startTime: 05:30
+      endTime: 00:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions: []
+drinks: []
+closed: false

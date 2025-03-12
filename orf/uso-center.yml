@@ -1,0 +1,50 @@
+name: USO Center
+location: Landside (before security), 2nd floor, above baggage claim and rental
+  car counters
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "36.898961929633195"
+longitude: "-76.20631128499399"
+terminal: Landside (before security)
+hours:
+  days:
+    - day: Monday
+      startTime: 09:00
+      endTime: 00:00
+    - day: Tuesday
+      startTime: 09:00
+      endTime: 00:00
+    - day: Wednesday
+      startTime: 09:00
+      endTime: 00:00
+    - day: Thursday
+      startTime: 09:00
+      endTime: 00:00
+    - day: Friday
+      startTime: 09:00
+      endTime: 00:00
+    - day: Saturday
+      startTime: 09:00
+      endTime: 00:00
+    - day: Sunday
+      startTime: 09:00
+      endTime: 00:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

@@ -1,0 +1,52 @@
+name: USO Center
+location: Terminal 2, landside (before security), baggage claim, between carousels 19-20
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "21.332029017100613"
+longitude: "-157.9197334928269"
+terminal: Terminal 2
+hours:
+  days:
+    - day: Monday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Thursday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Friday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Saturday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Sunday
+      startTime: 08:00
+      endTime: 20:00
+  timezone: Pacific/Honolulu
+amenities:
+  - bathroom
+  - business_center
+  - complimentary_wifi
+  - showers
+  - family_room
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+closed: false

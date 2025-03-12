@@ -1,0 +1,80 @@
+name: Alaska Lounge
+location: Main Terminal, Concourse D, near gate D1 (accross the central security
+  checkpoint)
+access:
+  - credential: alaska_plus
+    restrictions: null
+  - credential: american_admirals_club
+    restrictions: null
+  - credential: american_citi_executive
+    restrictions: null
+  - credential: qantas_club
+    restrictions: null
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: Alaska Airlines
+alliance: OneWorld
+allianceLevel: oneworld Sapphire
+allianceMembers:
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Finnair
+  - Hainan Airlines
+  - Iberia
+  - Japan Airlines
+  - Malaysia Airlines
+  - Qantas
+  - Qatar Airways
+  - Royal Air Maroc
+  - Royal Jordanian
+  - SriLankan
+latitude: "47.44461460390085"
+longitude: "-122.30231821992112"
+terminal: Main Terminal, Concourse D
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 23:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 23:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 23:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 23:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 23:00
+    - day: Saturday
+      startTime: 05:00
+      endTime: 23:00
+    - day: Sunday
+      startTime: 05:00
+      endTime: 23:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - barista_coffee
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Soups
+  - Complimentary Finger Food
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Premium Drinks For Sale
+closed: false

@@ -1,0 +1,77 @@
+name: KLM Crown Lounge
+location: Terminal D, opposite gate D15
+access:
+  - credential: dragon_pass
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: KLM
+alliance: SkyTeam
+allianceLevel: SkyTeam Elite Plus
+allianceMembers:
+  - Aerolineas Argentinas
+  - Aeromexico
+  - Air Europa
+  - Air France
+  - China Airlines
+  - China Eastern
+  - Delta
+  - Emirates
+  - Garuda Indonesia
+  - Kenya Airways
+  - KLM
+  - Korean Air
+  - MEA Middle East Airlines
+  - SAS
+  - Saudia
+  - TAROM
+  - Vietnam Airlines
+  - Virgin Atlantic
+  - Xiamen Airlines
+latitude: "29.987713835213057"
+longitude: "-95.33345005529901"
+terminal: Terminal D
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 21:00
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - tv
+  - phone
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+  - Complimentary Soups
+  - Complimentary Finger Food
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

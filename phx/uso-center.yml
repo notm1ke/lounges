@@ -1,0 +1,50 @@
+name: USO Center
+location: Terminal 4, landside (before security), level 2, near B and C elevators
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "33.43524657616217"
+longitude: "-111.99746130209708"
+terminal: Terminal 4
+hours:
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 15:00
+    - day: Tuesday
+      startTime: 07:00
+      endTime: 15:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 15:00
+    - day: Thursday
+      startTime: 07:00
+      endTime: 15:00
+    - day: Friday
+      startTime: 07:00
+      endTime: 19:00
+    - day: Saturday
+      startTime: 07:00
+      endTime: 19:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 19:00
+  timezone: America/Phoenix
+amenities:
+  - business_center
+  - complimentary_wifi
+  - family_room
+  - air_conditioning
+  - accessible
+  - tv
+  - fax
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

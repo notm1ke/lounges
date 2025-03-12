@@ -1,0 +1,51 @@
+name: USO Center
+location: Landside (before security)
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "30.47589013280146"
+longitude: "-87.19373921523885"
+terminal: ""
+hours:
+  days:
+    - day: Monday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Thursday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Friday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Saturday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Sunday
+      startTime: 08:00
+      endTime: 20:00
+  timezone: America/Chicago
+amenities:
+  - business_center
+  - complimentary_wifi
+  - family_room
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+  - phone
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

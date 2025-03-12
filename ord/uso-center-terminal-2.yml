@@ -1,0 +1,53 @@
+name: USO Center
+location: Terminal 2, landside (before security), mezzanine level
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "41.97661489672783"
+longitude: "-87.90498828495458"
+terminal: Terminal 2
+hours:
+  days:
+    - day: Monday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 09:00
+      endTime: 21:00
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - business_center
+  - complimentary_wifi
+  - family_room
+  - air_conditioning
+  - accessible
+  - tv
+  - fax
+  - phone
+  - bag_locker
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

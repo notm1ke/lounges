@@ -1,0 +1,49 @@
+name: USO Center
+location: Concourse A, near gate A11
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "39.0533201896375"
+longitude: "-84.65393899774554"
+terminal: Concourse A
+hours:
+  days:
+    - day: Monday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Thursday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Friday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Saturday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Sunday
+      startTime: 08:00
+      endTime: 20:00
+  timezone: America/New_York
+amenities:
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

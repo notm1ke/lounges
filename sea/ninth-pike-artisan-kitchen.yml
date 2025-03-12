@@ -1,0 +1,50 @@
+name: Ninth &amp; Pike Artisan Kitchen
+location: Main Terminal, Concourse C, opposite the Alaska Airlines Customer
+  Service Desk, before gate C10A/B
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "47.44544243024742"
+longitude: "-122.30378242062298"
+terminal: Main Terminal, Concourse C
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 23:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 23:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 23:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 23:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 23:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 23:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 23:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions: []
+drinks: []
+closed: false

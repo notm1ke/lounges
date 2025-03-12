@@ -1,0 +1,48 @@
+name: USO Center
+location: Landside (before security), baggage claim, behind carousel 5
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "39.29821526044744"
+longitude: "-94.71891802220401"
+terminal: Landside (before security)
+hours:
+  days:
+    - day: Monday
+      startTime: 09:00
+      endTime: 18:00
+    - day: Tuesday
+      startTime: 09:00
+      endTime: 18:00
+    - day: Wednesday
+      startTime: 09:00
+      endTime: 18:00
+    - day: Thursday
+      startTime: 09:00
+      endTime: 18:00
+    - day: Friday
+      startTime: 09:00
+      endTime: 18:00
+    - day: Saturday
+      startTime: 09:00
+      endTime: 18:00
+    - day: Sunday
+      startTime: 09:00
+      endTime: 18:00
+  timezone: America/Chicago
+amenities:
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+  - bag_locker
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

@@ -1,0 +1,24 @@
+name: Ko Olina Traveler's Lounge
+location: Terminal 2, Cultural Garden area, ground level, take stairs or
+  elevator near connector to gate E1
+access: []
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "21.331228263111733"
+longitude: "-157.91926949555446"
+terminal: Terminal 2
+hours:
+  days: []
+  timezone: ""
+amenities:
+  - complimentary_wifi
+  - accessible
+  - tv
+  - fim
+foodOptions:
+  - Food For Sale
+drinks: []
+closed: false

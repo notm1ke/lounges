@@ -1,0 +1,47 @@
+name: Gameway
+location: Near gate 1
+access:
+  - credential: priority_pass
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "29.65482428990026"
+longitude: "-95.27861952781679"
+terminal: ""
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 21:00
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+foodOptions: []
+drinks: []
+closed: false

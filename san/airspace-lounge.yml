@@ -1,0 +1,88 @@
+name: Aspire Lounge
+location: Terminal 2, near gate 23
+access:
+  - credential: alaska_plus
+    restrictions: null
+  - credential: american_admirals_club
+    restrictions: null
+  - credential: qantas_club
+    restrictions: When flying Qantas or JetStar.
+  - credential: american_citi_executive
+    restrictions: null
+  - credential: military
+    restrictions: null
+  - credential: amex_centurion
+    restrictions: null
+  - credential: amex_platinum
+    restrictions: null
+  - credential: amex_platinum_business
+    restrictions: null
+  - credential: amex_platinum_intl
+    restrictions: null
+  - credential: dragon_pass
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Swissport
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Edelweiss
+  - Iberia
+  - Japan Airlines
+  - Qatar Airways
+  - SriLankan
+latitude: "32.73206652679868"
+longitude: "-117.20139741897584"
+terminal: Terminal 2
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Saturday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Sunday
+      startTime: 05:00
+      endTime: 22:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Soups
+  - Complimentary Finger Food
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

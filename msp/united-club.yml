@@ -1,0 +1,91 @@
+name: United Club
+location: Concourse E, between gates E6-E8
+access:
+  - credential: alaska_plus
+    restrictions: When flying Alaska Airlines or United.
+  - credential: united_club
+    restrictions: null
+  - credential: military
+    restrictions: null
+  - credential: air_canada_maple_leaf
+    restrictions: When flying a Star Alliance member airline.
+  - credential: united_explorer
+    restrictions: When flying a Star Alliance member airline. Redeem a United Club pass.
+allowsArrivals: false
+operator: United
+alliance: Star Alliance
+allianceLevel: Star Alliance Gold
+allianceMembers:
+  - Aegean
+  - Air Canada
+  - Air China
+  - Air India
+  - Air New Zealand
+  - Alaska Airlines
+  - ANA
+  - Asiana
+  - Austrian
+  - Avianca
+  - Brussels Airlines
+  - Copa Airlines
+  - Croatia Airlines
+  - EGYPTAIR
+  - Ethiopian Airlines
+  - EVA Air
+  - LOT Polish Airlines
+  - Lufthansa
+  - Shenzhen Airlines
+  - Singapore Airlines
+  - South African Airways
+  - SWISS
+  - TAP Air Portugal
+  - Thai Airways
+  - Turkish Airlines
+  - United
+  - Virgin Australia
+latitude: "44.88533255064546"
+longitude: "-93.21292698383333"
+terminal: Concourse E
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 18:45
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 18:45
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 18:45
+    - day: Thursday
+      startTime: 05:00
+      endTime: 18:45
+    - day: Friday
+      startTime: 05:00
+      endTime: 18:45
+    - day: Saturday
+      startTime: 05:00
+      endTime: 18:45
+    - day: Sunday
+      startTime: 05:00
+      endTime: 18:45
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - bar
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

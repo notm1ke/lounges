@@ -1,0 +1,50 @@
+name: USO Center
+location: Terminal 1, landside (before security), above American Airlines ticket counter
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "37.6145373686956"
+longitude: "-122.38556036579902"
+terminal: Terminal 1
+hours:
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Thursday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Friday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Saturday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 20:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - business_center
+  - complimentary_wifi
+  - family_room
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

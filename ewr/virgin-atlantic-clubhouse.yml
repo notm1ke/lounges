@@ -1,0 +1,36 @@
+name: La Compagnie Lounge&Co
+location: Terminal B, Satellite B2, near gates B51-B57, immediately after
+  security, upper level
+access: []
+allowsArrivals: false
+operator: La Compagnie
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - La Compagnie
+latitude: "40.69025439406719"
+longitude: "-74.17630791664125"
+terminal: Terminal B, Satellite B2
+hours:
+  days: []
+  timezone: ""
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - bag_locker
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: false

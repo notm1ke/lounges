@@ -1,0 +1,78 @@
+name: American Airlines Admirals Club
+location: Concourse C, opposite gate C14, mezzanine level
+access:
+  - credential: military
+    restrictions: null
+  - credential: american_admirals_club
+    restrictions: null
+  - credential: alaska_plus
+    restrictions: null
+  - credential: qantas_club
+    restrictions: When flying Qantas or JetStar.
+  - credential: american_citi_executive
+    restrictions: null
+allowsArrivals: false
+operator: American Airlines
+alliance: OneWorld
+allianceLevel: oneworld Sapphire
+allianceMembers:
+  - Aer Lingus
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Finnair
+  - Iberia
+  - Japan Airlines
+  - Malaysia Airlines
+  - Qantas
+  - Qatar Airways
+  - Royal Air Maroc
+  - Royal Jordanian
+  - SriLankan
+latitude: "36.12918146648649"
+longitude: "-86.67039960622789"
+terminal: Concourse C
+hours:
+  days:
+    - day: Monday
+      startTime: 04:00
+      endTime: 19:00
+    - day: Tuesday
+      startTime: 04:00
+      endTime: 19:00
+    - day: Wednesday
+      startTime: 04:00
+      endTime: 19:00
+    - day: Thursday
+      startTime: 04:00
+      endTime: 19:00
+    - day: Friday
+      startTime: 04:00
+      endTime: 19:00
+    - day: Saturday
+      startTime: 04:00
+      endTime: 19:00
+    - day: Sunday
+      startTime: 04:00
+      endTime: 19:00
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Food For Sale
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

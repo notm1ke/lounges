@@ -1,0 +1,25 @@
+name: The Lounge at CHO
+location: Near gate 5
+access: []
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "38.1394720722481"
+longitude: "-78.44955500059869"
+terminal: ""
+hours:
+  days: []
+  timezone: ""
+amenities:
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

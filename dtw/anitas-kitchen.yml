@@ -1,0 +1,47 @@
+name: Anitas Kitchen
+location: Warren C. Evans Terminal, Concourse D, near gate D23
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "42.22777455201742"
+longitude: "-83.3470916748047"
+terminal: Warren C. Evans Terminal
+hours:
+  days:
+    - day: Monday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Thursday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Friday
+      startTime: 08:00
+      endTime: 17:00
+    - day: Saturday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Sunday
+      startTime: 08:00
+      endTime: 20:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - air_conditioning
+  - accessible
+foodOptions: []
+drinks: []
+closed: false

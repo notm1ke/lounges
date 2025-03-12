@@ -1,0 +1,63 @@
+name: Delta One Lounge
+location: Terminal 3, between Terminals 2-3
+access: []
+allowsArrivals: false
+operator: Delta
+alliance: SkyTeam
+allianceLevel: None
+allianceMembers:
+  - Air France
+  - Delta
+  - KLM
+  - LATAM Airlines Brasil
+  - LATAM Airlines Chile
+  - LATAM Airlines Peru
+  - Virgin Atlantic
+latitude: "33.9454114951012"
+longitude: "-118.40673931985012"
+terminal: Terminal 3
+hours:
+  days:
+    - day: Monday
+      startTime: 04:15
+      endTime: 23:30
+    - day: Tuesday
+      startTime: 04:15
+      endTime: 23:30
+    - day: Wednesday
+      startTime: 04:15
+      endTime: 23:30
+    - day: Thursday
+      startTime: 04:15
+      endTime: 23:30
+    - day: Friday
+      startTime: 04:15
+      endTime: 23:30
+    - day: Saturday
+      startTime: 04:15
+      endTime: 23:30
+    - day: Sunday
+      startTime: 04:15
+      endTime: 23:30
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - spa
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - outdoor_deck
+  - fast_track
+foodOptions:
+  - Complimentary Full Service Restaurant
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

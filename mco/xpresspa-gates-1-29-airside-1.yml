@@ -1,0 +1,46 @@
+name: XpresSpa (Gates 1-29)
+location: Terminal A, Airside 1, near gates 1-9
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "28.434357490437474"
+longitude: "-81.31452446980346"
+terminal: Terminal A, Airside 1
+hours:
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 21:00
+  timezone: America/New_York
+amenities:
+  - paid_spa
+  - air_conditioning
+  - accessible
+foodOptions: []
+drinks: []
+closed: false

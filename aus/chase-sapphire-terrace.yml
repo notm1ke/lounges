@@ -1,0 +1,49 @@
+name: Chase Sapphire Terrace
+location: Barbara Jordan Terminal, near gate 4 and Delta Sky Club
+access:
+  - credential: jpmorgan_reserve
+    restrictions: null
+  - credential: chase_sapphire_reserve
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "30.20208122546941"
+longitude: "-97.66287803649904"
+terminal: Barbara Jordan Terminal
+hours:
+  days:
+    - day: Monday
+      startTime: 10:00
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 10:00
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 10:00
+      endTime: 20:00
+    - day: Thursday
+      startTime: 10:00
+      endTime: 20:00
+    - day: Friday
+      startTime: 10:00
+      endTime: 20:00
+    - day: Saturday
+      startTime: 10:00
+      endTime: 20:00
+    - day: Sunday
+      startTime: 10:00
+      endTime: 20:00
+  timezone: America/Denver
+amenities:
+  - complimentary_wifi
+  - accessible
+  - outdoor_deck
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+closed: false

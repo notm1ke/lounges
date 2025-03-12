@@ -1,0 +1,27 @@
+name: USO Center
+location: Main terminal area
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "42.94788664640737"
+longitude: "-87.9025024356832"
+terminal: ""
+hours:
+  days: []
+  timezone: ""
+amenities:
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

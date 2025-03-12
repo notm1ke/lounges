@@ -1,0 +1,64 @@
+name: American Express The Centurion Lounge
+location: Concourse D, opposite gate D1
+access:
+  - credential: amex_centurion
+    restrictions: null
+  - credential: amex_platinum
+    restrictions: null
+  - credential: amex_platinum_business
+    restrictions: null
+  - credential: amex_platinum_intl
+    restrictions: null
+  - credential: amex_delta_reserve
+    restrictions: null
+allowsArrivals: false
+operator: American Express
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "36.08137629918961"
+longitude: "-115.13654172420502"
+terminal: Concourse D
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 23:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 23:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 23:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 23:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 23:00
+    - day: Saturday
+      startTime: 05:00
+      endTime: 23:00
+    - day: Sunday
+      startTime: 05:00
+      endTime: 23:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - family_room
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

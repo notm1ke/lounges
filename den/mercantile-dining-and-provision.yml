@@ -1,0 +1,49 @@
+name: Mercantile Dining and Provision
+location: Concourse A, near gate 39
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "39.85398670093555"
+longitude: "-104.67443259313777"
+terminal: Concourse A
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 00:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 00:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 00:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 00:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 00:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 00:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 00:00
+  timezone: America/Denver
+amenities:
+  - bathroom
+  - bar
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions: []
+drinks: []
+closed: false

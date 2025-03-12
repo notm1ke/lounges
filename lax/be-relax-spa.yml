@@ -1,0 +1,49 @@
+name: Be Relax Spa
+location: Terminal 1, near gate 12
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "33.94688448534452"
+longitude: "-118.40113878250123"
+terminal: Terminal 1
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 22:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - complimentary_wifi
+  - paid_spa
+  - air_conditioning
+  - accessible
+foodOptions: []
+drinks:
+  - Complimentary Soft Drinks
+closed: false

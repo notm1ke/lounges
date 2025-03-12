@@ -1,0 +1,50 @@
+name: USO Center
+location: Terminal B, landside (before security), level 2, door 9
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "40.691568197972614"
+longitude: "-74.17672094870841"
+terminal: Terminal B, landside (before security)
+hours:
+  days:
+    - day: Monday
+      startTime: 10:00
+      endTime: 18:00
+    - day: Tuesday
+      startTime: 10:00
+      endTime: 18:00
+    - day: Wednesday
+      startTime: 10:00
+      endTime: 18:00
+    - day: Thursday
+      startTime: 10:00
+      endTime: 18:00
+    - day: Friday
+      startTime: 10:00
+      endTime: 18:00
+    - day: Saturday
+      startTime: 10:00
+      endTime: 18:00
+    - day: Sunday
+      startTime: 10:00
+      endTime: 18:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

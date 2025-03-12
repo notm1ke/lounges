@@ -1,0 +1,55 @@
+name: The Emirates Lounge
+location: Terminal E, take elevator opposite gate E11 up to 4th floor
+access: []
+allowsArrivals: false
+operator: Emirates
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Emirates
+latitude: "42.36991168537258"
+longitude: "-71.0223999889057"
+terminal: Terminal E
+hours:
+  days:
+    - day: Monday
+      startTime: 18:15
+      endTime: 22:15
+    - day: Tuesday
+      startTime: 18:15
+      endTime: 22:15
+    - day: Wednesday
+      startTime: 18:15
+      endTime: 22:15
+    - day: Thursday
+      startTime: 18:15
+      endTime: 22:15
+    - day: Friday
+      startTime: 18:15
+      endTime: 22:15
+    - day: Saturday
+      startTime: 18:15
+      endTime: 22:15
+    - day: Sunday
+      startTime: 18:15
+      endTime: 22:15
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - prayer_room
+foodOptions:
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

@@ -1,0 +1,49 @@
+name: Be Relax Spa
+location: Terminal B, after security, next to the fountain
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "40.77363765633635"
+longitude: "-73.87190401554109"
+terminal: Terminal B
+hours:
+  days:
+    - day: Monday
+      startTime: 09:00
+      endTime: 19:00
+    - day: Tuesday
+      startTime: 09:00
+      endTime: 19:00
+    - day: Wednesday
+      startTime: 09:00
+      endTime: 19:00
+    - day: Thursday
+      startTime: 09:00
+      endTime: 19:00
+    - day: Friday
+      startTime: 09:00
+      endTime: 19:00
+    - day: Saturday
+      startTime: 09:00
+      endTime: 19:00
+    - day: Sunday
+      startTime: 09:00
+      endTime: 19:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - paid_spa
+  - air_conditioning
+  - accessible
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

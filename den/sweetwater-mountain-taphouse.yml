@@ -1,0 +1,48 @@
+name: SweetWater Mountain Taphouse
+location: Concourse B, near gate B79, level 2B, next to Starbucks
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "39.859006550320416"
+longitude: "-104.66557323932649"
+terminal: Concourse B
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 20:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 20:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 20:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 20:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 20:00
+  timezone: America/Denver
+amenities:
+  - bathroom
+  - bar
+  - complimentary_wifi
+  - air_conditioning
+  - tv
+foodOptions: []
+drinks: []
+closed: true

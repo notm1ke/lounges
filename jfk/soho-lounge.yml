@@ -1,0 +1,68 @@
+name: Soho Lounge
+location: Terminal 8, Concourse B, near gate B14
+access: []
+allowsArrivals: false
+operator: British Airways
+alliance: OneWorld
+allianceLevel: oneworld Emerald
+allianceMembers:
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Finnair
+  - Iberia
+  - Japan Airlines
+  - Malaysia Airlines
+  - Qantas
+  - Qatar Airways
+  - Royal Air Maroc
+  - Royal Jordanian
+  - SriLankan
+latitude: "40.648549021422035"
+longitude: "-73.79022002220155"
+terminal: Terminal 8
+hours:
+  days:
+    - day: Monday
+      startTime: 04:15
+      endTime: 23:30
+    - day: Tuesday
+      startTime: 04:15
+      endTime: 23:30
+    - day: Wednesday
+      startTime: 04:15
+      endTime: 23:30
+    - day: Thursday
+      startTime: 04:15
+      endTime: 23:30
+    - day: Friday
+      startTime: 04:15
+      endTime: 23:30
+    - day: Saturday
+      startTime: 04:15
+      endTime: 23:30
+    - day: Sunday
+      startTime: 04:15
+      endTime: 23:30
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+  - Complimentary Cooked-to-order Meals
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: false

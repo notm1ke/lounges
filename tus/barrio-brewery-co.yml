@@ -1,0 +1,43 @@
+name: Barrio Brewery Co.
+location: Landside (before security), 2nd floor, opposite Arroyo Trading Post
+access:
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "32.12029179018661"
+longitude: "-110.93761324882509"
+terminal: ""
+hours:
+  days:
+    - day: Monday
+      startTime: 10:00
+      endTime: 15:00
+    - day: Tuesday
+      startTime: 10:00
+      endTime: 15:00
+    - day: Wednesday
+      startTime: 10:00
+      endTime: 15:00
+    - day: Thursday
+      startTime: 10:00
+      endTime: 15:00
+    - day: Friday
+      startTime: 10:00
+      endTime: 15:00
+  timezone: America/Phoenix
+amenities:
+  - bathroom
+  - bar
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions:
+  - Food For Sale
+drinks:
+  - Premium Drinks For Sale
+closed: false

@@ -1,0 +1,54 @@
+name: Hawaiian Airlines The Plumeria Lounge
+location: Terminal 1, near gate A18, upper level
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Hawaiian Airlines
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Hawaiian Airlines
+latitude: "21.33346311784585"
+longitude: "-157.92357980568525"
+terminal: Terminal 1
+hours:
+  days:
+    - day: Monday
+      startTime: 06:30
+      endTime: 22:00
+    - day: Tuesday
+      startTime: 06:30
+      endTime: 22:00
+    - day: Wednesday
+      startTime: 06:30
+      endTime: 22:00
+    - day: Thursday
+      startTime: 06:30
+      endTime: 22:00
+    - day: Friday
+      startTime: 06:30
+      endTime: 22:00
+    - day: Saturday
+      startTime: 06:30
+      endTime: 22:00
+    - day: Sunday
+      startTime: 06:30
+      endTime: 22:00
+  timezone: Pacific/Honolulu
+amenities:
+  - bathroom
+  - bar
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+closed: false

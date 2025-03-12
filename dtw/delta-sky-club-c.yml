@@ -1,0 +1,93 @@
+name: Delta Sky Club
+location: McNamara Terminal, Concourse C, between gates C9-B2
+access:
+  - credential: delta_sky_club
+    restrictions: null
+  - credential: amex_delta_reserve
+    restrictions: When flying Delta.
+  - credential: amex_platinum
+    restrictions: When flying Delta. 10 complimentary visits a year.
+  - credential: amex_platinum_business
+    restrictions: When flying Delta. 10 complimentary visits a year.
+  - credential: amex_platinum_intl
+    restrictions: When flying Delta.
+  - credential: amex_centurion
+    restrictions: When flying Delta.
+  - credential: delta_sky_club
+    restrictions: When flying Delta. Max. 3 visits a year.
+  - credential: delta_sky_club
+    restrictions: Max. 6 visits a year.
+  - credential: amex_platinum_intl
+    restrictions: null
+allowsArrivals: false
+operator: Delta
+alliance: SkyTeam
+allianceLevel: SkyTeam Elite Plus
+allianceMembers:
+  - Aerolineas Argentinas
+  - Aeromexico
+  - Air Europa
+  - Air France
+  - China Airlines
+  - China Eastern
+  - Delta
+  - Garuda Indonesia
+  - Kenya Airways
+  - KLM
+  - Korean Air
+  - LATAM Airlines Brasil
+  - LATAM Airlines Chile
+  - LATAM Airlines Peru
+  - MEA Middle East Airlines
+  - SAS
+  - Saudia
+  - TAROM
+  - Vietnam Airlines
+  - Virgin Atlantic
+  - WestJet
+  - Xiamen Airlines
+latitude: "42.20997760111927"
+longitude: "-83.36139278002241"
+terminal: McNamara Terminal
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 21:00
+  timezone: America/Detroit
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Cold Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: false

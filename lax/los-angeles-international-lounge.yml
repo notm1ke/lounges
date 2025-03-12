@@ -1,0 +1,53 @@
+name: Los Angeles International Lounge
+location: Tom Bradley International Terminal (Terminal B), after security, level
+  6, after Star Alliance Lounge
+access:
+  - credential: el_al_king_david_club
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - El Al
+  - Hainan Airlines
+  - Hong Kong Airlines
+latitude: "33.94341334977016"
+longitude: "-118.40914249420167"
+terminal: Tom Bradley International Terminal (Terminal B)
+hours:
+  days:
+    - day: Monday
+      startTime: 07:30
+      endTime: 01:00
+    - day: Tuesday
+      startTime: 07:30
+      endTime: 01:00
+    - day: Wednesday
+      startTime: 07:30
+      endTime: 01:00
+    - day: Thursday
+      startTime: 07:30
+      endTime: 01:00
+    - day: Friday
+      startTime: 07:30
+      endTime: 01:00
+    - day: Saturday
+      startTime: 07:30
+      endTime: 01:00
+    - day: Sunday
+      startTime: 07:30
+      endTime: 01:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: true

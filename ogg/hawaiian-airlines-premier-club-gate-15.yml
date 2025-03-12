@@ -1,0 +1,52 @@
+name: Hawaiian Airlines Premier Club
+location: Opposite gate 15
+access:
+  - credential: hawaiian_premier_club
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Hawaiian Airlines
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Hawaiian Airlines
+latitude: "20.892724824077654"
+longitude: "-156.43744832840937"
+terminal: ""
+hours:
+  days:
+    - day: Monday
+      startTime: 09:30
+      endTime: 15:30
+    - day: Tuesday
+      startTime: 09:30
+      endTime: 15:30
+    - day: Wednesday
+      startTime: 09:30
+      endTime: 15:30
+    - day: Thursday
+      startTime: 09:30
+      endTime: 15:30
+    - day: Friday
+      startTime: 09:30
+      endTime: 15:30
+    - day: Saturday
+      startTime: 09:30
+      endTime: 15:30
+    - day: Sunday
+      startTime: 09:30
+      endTime: 15:30
+  timezone: Pacific/Honolulu
+amenities:
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - phone
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

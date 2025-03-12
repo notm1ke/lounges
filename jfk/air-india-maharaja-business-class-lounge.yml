@@ -1,0 +1,86 @@
+name: Air India primeclass Lounge
+location: Terminal 4, above gate A5, next to The Emirates Lounge
+access:
+  - credential: united_club
+    restrictions: When flying a Star Alliance member airline.
+  - credential: air_canada_maple_leaf
+    restrictions: When flying a Star Alliance member airline.
+  - credential: dragon_pass
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+  - credential: tav_passport
+    restrictions: null
+allowsArrivals: false
+operator: TAV
+alliance: Star Alliance
+allianceLevel: Star Alliance Gold
+allianceMembers:
+  - Aegean
+  - Air Canada
+  - Air China
+  - Air India
+  - Air New Zealand
+  - ANA
+  - Asiana
+  - Austrian
+  - Avianca
+  - Brussels Airlines
+  - Copa Airlines
+  - Croatia Airlines
+  - EGYPTAIR
+  - Ethiopian Airlines
+  - EVA Air
+  - LOT Polish Airlines
+  - Lufthansa
+  - Shenzhen Airlines
+  - Singapore Airlines
+  - South African Airways
+  - SWISS
+  - TAP Air Portugal
+  - Thai Airways
+  - Turkish Airlines
+  - United
+latitude: "40.64321597404539"
+longitude: "-73.7791545689106"
+terminal: Terminal 4
+hours:
+  days:
+    - day: Monday
+      startTime: 07:45
+      endTime: 21:45
+    - day: Tuesday
+      startTime: 07:45
+      endTime: 21:45
+    - day: Wednesday
+      startTime: 07:45
+      endTime: 21:45
+    - day: Thursday
+      startTime: 07:45
+      endTime: 21:45
+    - day: Friday
+      startTime: 07:45
+      endTime: 21:45
+    - day: Saturday
+      startTime: 07:45
+      endTime: 21:45
+    - day: Sunday
+      startTime: 07:45
+      endTime: 21:45
+  timezone: America/New_York
+amenities:
+  - bar
+  - business_center
+  - complimentary_wifi
+  - smoking_room
+  - air_conditioning
+  - accessible
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: false

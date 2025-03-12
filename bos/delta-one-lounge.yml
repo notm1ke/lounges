@@ -1,0 +1,58 @@
+name: Delta One Lounge
+location: Terminal E, near gate E13
+access: []
+allowsArrivals: false
+operator: Delta
+alliance: SkyTeam
+allianceLevel: SkyTeam Elite Plus
+allianceMembers:
+  - Delta
+  - LATAM Airlines Brasil
+  - LATAM Airlines Chile
+  - LATAM Airlines Peru
+  - Virgin Atlantic
+latitude: "42.36987993290991"
+longitude: "-71.02349996566774"
+terminal: Terminal E
+hours:
+  days:
+    - day: Monday
+      startTime: 14:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 14:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 14:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 14:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 14:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 14:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 14:00
+      endTime: 21:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Full Service Restaurant
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

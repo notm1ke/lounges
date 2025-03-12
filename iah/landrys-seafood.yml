@@ -1,0 +1,50 @@
+name: Landry's Seafood
+location: Terminal C, near gate C42
+access:
+  - credential: priority_pass
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "29.9853415466"
+longitude: "-95.3383628029"
+terminal: Terminal C
+hours:
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 21:00
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - bar
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions:
+  - Food For Sale
+drinks:
+  - Premium Drinks For Sale
+closed: false

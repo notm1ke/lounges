@@ -1,0 +1,48 @@
+name: Be Relax Spa at Traveler's Oasis
+location: Concourse B, near gate B22
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "33.64059765834325"
+longitude: "-84.4358539581299"
+terminal: Concourse B
+hours:
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 22:00
+    - day: Tuesday
+      startTime: 07:00
+      endTime: 22:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 22:00
+    - day: Thursday
+      startTime: 07:00
+      endTime: 22:00
+    - day: Friday
+      startTime: 07:00
+      endTime: 22:00
+    - day: Saturday
+      startTime: 07:00
+      endTime: 22:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 22:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - complimentary_wifi
+  - paid_spa
+  - air_conditioning
+  - accessible
+foodOptions: []
+drinks: []
+closed: false

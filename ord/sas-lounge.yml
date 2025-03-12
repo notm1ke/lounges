@@ -1,0 +1,53 @@
+name: SAS Lounge
+location: Terminal 5, near gate M13
+access:
+  - credential: new_zealand_koru_club
+    restrictions: When flying Air New Zealand.
+allowsArrivals: false
+operator: SAS
+alliance: SkyTeam
+allianceLevel: SkyTeam Elite Plus
+allianceMembers:
+  - Aerolineas Argentinas
+  - Aeromexico
+  - Air Europa
+  - Air France
+  - Air New Zealand
+  - China Airlines
+  - China Eastern
+  - Delta
+  - Emirates
+  - Etihad
+  - Garuda Indonesia
+  - Kenya Airways
+  - KLM
+  - Korean Air
+  - MEA Middle East Airlines
+  - SAS
+  - Saudia
+  - TAROM
+  - Vietnam Airlines
+  - Virgin Atlantic
+  - Xiamen Airlines
+latitude: "41.97393835852338"
+longitude: "-87.88907164986267"
+terminal: Terminal 5
+hours:
+  days: []
+  timezone: ""
+amenities:
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Cold Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: false

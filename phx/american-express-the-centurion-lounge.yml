@@ -1,0 +1,62 @@
+name: American Express The Centurion Lounge
+location: Terminal 4, Concourse B, opposite gate B22
+access:
+  - credential: amex_centurion
+    restrictions: null
+  - credential: amex_platinum
+    restrictions: null
+  - credential: amex_platinum_business
+    restrictions: null
+  - credential: amex_platinum_intl
+    restrictions: null
+  - credential: amex_delta_reserve
+    restrictions: null
+allowsArrivals: false
+operator: American Express
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "33.4373013367015"
+longitude: "-111.99425071477893"
+terminal: Terminal 4, Concourse B
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 21:00
+  timezone: America/Phoenix
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

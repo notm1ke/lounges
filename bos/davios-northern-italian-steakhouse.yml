@@ -1,0 +1,49 @@
+name: Davio's Northern Italian Steakhouse
+location: Terminal C, near gate C25
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "42.36595021374933"
+longitude: "-71.01599793897513"
+terminal: Terminal C
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Saturday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Sunday
+      startTime: 05:00
+      endTime: 22:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions: []
+drinks: []
+closed: false

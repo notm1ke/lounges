@@ -1,0 +1,51 @@
+name: USO Center
+location: 2nd floor
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "30.412706343030358"
+longitude: "-89.0724493175407"
+terminal: ""
+hours:
+  days:
+    - day: Monday
+      startTime: 08:00
+      endTime: 18:00
+    - day: Tuesday
+      startTime: 08:00
+      endTime: 18:00
+    - day: Wednesday
+      startTime: 08:00
+      endTime: 18:00
+    - day: Thursday
+      startTime: 08:00
+      endTime: 18:00
+    - day: Friday
+      startTime: 08:00
+      endTime: 18:00
+    - day: Saturday
+      startTime: 08:00
+      endTime: 18:00
+    - day: Sunday
+      startTime: 08:00
+      endTime: 18:00
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+  - bag_locker
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

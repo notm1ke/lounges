@@ -1,0 +1,45 @@
+name: USO Center
+location: Concourse C, near gate C54
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "40.494355098328036"
+longitude: "-80.24775113423624"
+terminal: Concourse C
+hours:
+  days:
+    - day: Monday
+      startTime: 08:00
+      endTime: 16:00
+    - day: Tuesday
+      startTime: 08:00
+      endTime: 19:00
+    - day: Wednesday
+      startTime: 08:00
+      endTime: 19:00
+    - day: Friday
+      startTime: 08:00
+      endTime: 16:00
+    - day: Sunday
+      startTime: 08:00
+      endTime: 16:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - business_center
+  - complimentary_wifi
+  - family_room
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

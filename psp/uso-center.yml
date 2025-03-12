@@ -1,0 +1,50 @@
+name: USO Center
+location: Landside (before security)
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "33.824813672315884"
+longitude: "-116.51010374164566"
+terminal: ""
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 21:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+  - outdoor_deck
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

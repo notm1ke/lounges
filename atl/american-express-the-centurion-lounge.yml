@@ -1,0 +1,65 @@
+name: American Express The Centurion Lounge
+location: Concourse E, near gate E11
+access:
+  - credential: amex_centurion
+    restrictions: null
+  - credential: amex_platinum
+    restrictions: null
+  - credential: amex_platinum_business
+    restrictions: null
+  - credential: amex_platinum_intl
+    restrictions: null
+  - credential: amex_delta_reserve
+    restrictions: null
+allowsArrivals: false
+operator: American Express
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "33.63978037039932"
+longitude: "-84.425323529048"
+terminal: Concourse E
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 23:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 23:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 23:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 23:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 23:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 23:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 23:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - outdoor_deck
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

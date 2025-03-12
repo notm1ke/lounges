@@ -1,0 +1,74 @@
+name: Korean Air KAL Lounge
+location: Terminal 2, Cultural Garden area, ground level, take stairs or
+  elevator near connector to gate E1
+access: []
+allowsArrivals: false
+operator: Korean Air
+alliance: SkyTeam
+allianceLevel: SkyTeam Elite Plus
+allianceMembers:
+  - Aerolineas Argentinas
+  - Aeromexico
+  - Air Europa
+  - Air France
+  - China Airlines
+  - China Eastern
+  - Delta
+  - Garuda Indonesia
+  - Kenya Airways
+  - KLM
+  - Korean Air
+  - MEA Middle East Airlines
+  - SAS
+  - Saudia
+  - TAROM
+  - Vietnam Airlines
+  - Virgin Atlantic
+  - Xiamen Airlines
+latitude: "21.330884724569344"
+longitude: "-157.92038261890414"
+terminal: Terminal 2
+hours:
+  days:
+    - day: Monday
+      startTime: 08:40
+      endTime: 11:00
+    - day: Tuesday
+      startTime: 08:40
+      endTime: 11:00
+    - day: Wednesday
+      startTime: 08:40
+      endTime: 11:00
+    - day: Thursday
+      startTime: 08:40
+      endTime: 11:00
+    - day: Friday
+      startTime: 08:40
+      endTime: 11:00
+    - day: Saturday
+      startTime: 08:40
+      endTime: 11:00
+    - day: Sunday
+      startTime: 08:40
+      endTime: 11:00
+  timezone: Pacific/Honolulu
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - fax
+  - phone
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: false

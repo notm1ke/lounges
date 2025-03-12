@@ -1,0 +1,49 @@
+name: Jake Brewer USO Center
+location: Concourse C, landside (before security), ticketing level
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "39.99864064412359"
+longitude: "-82.8843407225734"
+terminal: Concourse C
+hours:
+  days:
+    - day: Monday
+      startTime: 09:00
+      endTime: 18:00
+    - day: Tuesday
+      startTime: 09:00
+      endTime: 18:00
+    - day: Wednesday
+      startTime: 09:00
+      endTime: 18:00
+    - day: Thursday
+      startTime: 09:00
+      endTime: 18:00
+    - day: Friday
+      startTime: 09:00
+      endTime: 18:00
+    - day: Saturday
+      startTime: 09:00
+      endTime: 18:00
+    - day: Sunday
+      startTime: 09:00
+      endTime: 18:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

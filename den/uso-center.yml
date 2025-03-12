@@ -1,0 +1,49 @@
+name: USO Center
+location: Concourse A, Center Court, level 4, near airline clubs
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "39.85377049737045"
+longitude: "-104.67380495201013"
+terminal: Concourse A
+hours:
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 19:00
+    - day: Tuesday
+      startTime: 07:00
+      endTime: 19:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 19:00
+    - day: Thursday
+      startTime: 07:00
+      endTime: 19:00
+    - day: Friday
+      startTime: 07:00
+      endTime: 19:00
+    - day: Saturday
+      startTime: 07:00
+      endTime: 19:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 19:00
+  timezone: America/Denver
+amenities:
+  - complimentary_wifi
+  - family_room
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

@@ -1,0 +1,64 @@
+name: The Club at DFW
+location: Terminal D, near gate D25
+access:
+  - credential: qantas_club
+    restrictions: When flying Qantas or Jetstar, or Emirates on a flight booked with
+      a Qantas flight number.
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Airport Dimensions
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - British Airways
+  - Qantas
+  - Qatar Airways
+latitude: "32.8951646"
+longitude: "-97.03980430000001"
+terminal: Terminal D
+hours:
+  days:
+    - day: Monday
+      startTime: 04:00
+      endTime: 22:30
+    - day: Tuesday
+      startTime: 04:00
+      endTime: 22:30
+    - day: Wednesday
+      startTime: 04:00
+      endTime: 22:30
+    - day: Thursday
+      startTime: 04:00
+      endTime: 22:30
+    - day: Friday
+      startTime: 04:00
+      endTime: 22:30
+    - day: Saturday
+      startTime: 04:00
+      endTime: 22:30
+    - day: Sunday
+      startTime: 04:00
+      endTime: 22:30
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - paid_showers
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Finger Food
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: false

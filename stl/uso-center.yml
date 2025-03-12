@@ -1,0 +1,48 @@
+name: USO Center
+location: Terminal 1, landside (before security), baggage claim, opposite carousel M6
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "38.74281234130805"
+longitude: "-90.36604648211059"
+terminal: Terminal 1
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 00:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 00:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 00:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 00:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 00:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 22:00
+  timezone: America/Chicago
+amenities:
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

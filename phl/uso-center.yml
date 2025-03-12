@@ -1,0 +1,53 @@
+name: USO Center
+location: Concourse E, near gate E2
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "39.878223949015315"
+longitude: "-75.23861030336512"
+terminal: Concourse E
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 18:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 18:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 18:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 18:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 18:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 18:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 18:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - business_center
+  - complimentary_wifi
+  - showers
+  - family_room
+  - clothes_pressing
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+closed: false

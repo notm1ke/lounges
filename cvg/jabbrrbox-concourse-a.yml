@@ -1,0 +1,43 @@
+name: Jabbrrbox
+location: Concourse A, near gate A2
+access:
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Jabbrrbox
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "39.053132728734674"
+longitude: "-84.65666935997766"
+terminal: Concourse A
+hours:
+  days:
+    - day: Monday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Tuesday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Wednesday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Thursday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Friday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Saturday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Sunday
+      startTime: 00:00
+      endTime: 00:00
+  timezone: America/New_York
+amenities:
+  - complimentary_wifi
+  - air_conditioning
+foodOptions: []
+drinks: []
+closed: false

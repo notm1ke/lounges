@@ -1,0 +1,70 @@
+name: Delta One Lounge
+location: Terminal 4, between Concourses A-B, next to the main security checkpoint
+access: []
+allowsArrivals: false
+operator: Delta
+alliance: SkyTeam
+allianceLevel: ""
+allianceMembers:
+  - Air France
+  - Delta
+  - KLM
+  - Korean Air
+  - LATAM Airlines Brasil
+  - LATAM Airlines Chile
+  - LATAM Airlines Peru
+  - Virgin Atlantic
+latitude: "40.64261863806106"
+longitude: "-73.78321409225465"
+terminal: Terminal 4
+hours:
+  days:
+    - day: Monday
+      startTime: 04:30
+      endTime: 23:00
+    - day: Tuesday
+      startTime: 04:30
+      endTime: 23:00
+    - day: Wednesday
+      startTime: 04:30
+      endTime: 23:00
+    - day: Thursday
+      startTime: 04:30
+      endTime: 23:00
+    - day: Friday
+      startTime: 04:30
+      endTime: 23:00
+    - day: Saturday
+      startTime: 04:30
+      endTime: 23:00
+    - day: Sunday
+      startTime: 04:30
+      endTime: 23:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - spa
+  - private_rooms
+  - shoe_shine
+  - clothes_pressing
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - outdoor_deck
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+  - Complimentary Cooked-to-order Meals
+  - Complimentary Full Service Restaurant
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

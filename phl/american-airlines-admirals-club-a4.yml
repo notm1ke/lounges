@@ -1,0 +1,77 @@
+name: American Airlines Admirals Club
+location: Concourse A, East wing, between gates A4-A6A
+access:
+  - credential: military
+    restrictions: null
+  - credential: american_admirals_club
+    restrictions: null
+  - credential: alaska_plus
+    restrictions: null
+  - credential: qantas_club
+    restrictions: When flying Qantas or JetStar.
+  - credential: american_citi_executive
+    restrictions: null
+allowsArrivals: false
+operator: American Airlines
+alliance: OneWorld
+allianceLevel: oneworld Sapphire
+allianceMembers:
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Finnair
+  - Iberia
+  - Japan Airlines
+  - Malaysia Airlines
+  - Qantas
+  - Qatar Airways
+  - Royal Air Maroc
+  - Royal Jordanian
+  - SriLankan
+latitude: "39.873590444308306"
+longitude: "-75.24749100208284"
+terminal: Concourse A
+hours:
+  days:
+    - day: Monday
+      startTime: 06:30
+      endTime: 21:30
+    - day: Tuesday
+      startTime: 06:30
+      endTime: 21:30
+    - day: Wednesday
+      startTime: 06:30
+      endTime: 21:30
+    - day: Thursday
+      startTime: 06:30
+      endTime: 21:30
+    - day: Friday
+      startTime: 06:30
+      endTime: 21:30
+    - day: Saturday
+      startTime: 06:30
+      endTime: 21:30
+    - day: Sunday
+      startTime: 06:30
+      endTime: 21:30
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Food For Sale
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

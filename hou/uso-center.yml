@@ -1,0 +1,49 @@
+name: USO Center
+location: Near gate 44, lower level
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "29.652773078435974"
+longitude: "-95.27766483603963"
+terminal: ""
+hours:
+  days:
+    - day: Monday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 09:00
+      endTime: 21:00
+  timezone: America/Chicago
+amenities:
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

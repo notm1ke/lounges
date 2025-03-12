@@ -1,0 +1,62 @@
+name: The Etihad Lounge
+location: Concourse A, near gate A14
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Airport Dimensions
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Etihad
+latitude: "38.948775283601805"
+longitude: "-77.44464396966556"
+terminal: Concourse A
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 22:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - family_room
+  - barista_coffee
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - prayer_room
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+  - Complimentary Cooked-to-order Meals
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

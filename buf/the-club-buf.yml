@@ -1,0 +1,60 @@
+name: The Club BUF
+location: Between gates 6-7
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+  - credential: tav_passport
+    restrictions: null
+allowsArrivals: false
+operator: Airport Dimensions
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "42.93443260037529"
+longitude: "-78.73225450515748"
+terminal: ""
+hours:
+  days:
+    - day: Monday
+      startTime: 04:00
+      endTime: 19:00
+    - day: Tuesday
+      startTime: 04:00
+      endTime: 19:00
+    - day: Wednesday
+      startTime: 04:00
+      endTime: 19:00
+    - day: Thursday
+      startTime: 04:00
+      endTime: 19:00
+    - day: Friday
+      startTime: 04:00
+      endTime: 19:00
+    - day: Saturday
+      startTime: 04:00
+      endTime: 19:00
+    - day: Sunday
+      startTime: 04:00
+      endTime: 19:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Finger Food
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

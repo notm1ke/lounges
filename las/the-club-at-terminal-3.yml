@@ -1,0 +1,74 @@
+name: The Club at LAS
+location: Concourse E, opposite gate E2
+access:
+  - credential: alaska_plus
+    restrictions: When flying Alaska Airlines.
+  - credential: el_al_king_david_club
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+  - credential: tav_passport
+    restrictions: null
+allowsArrivals: false
+operator: Airport Dimensions
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Aeromexico
+  - Alaska Airlines
+  - British Airways
+  - Condor
+  - Discover Airlines
+  - Edelweiss
+  - El Al
+  - Hainan Airlines
+  - Korean Air
+  - Virgin Atlantic
+latitude: "36.086056248639274"
+longitude: "-115.1340687274933"
+terminal: Concourse E
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 00:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 00:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 00:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 00:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 00:00
+    - day: Saturday
+      startTime: 05:00
+      endTime: 00:00
+    - day: Sunday
+      startTime: 05:00
+      endTime: 00:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

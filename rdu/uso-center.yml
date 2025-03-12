@@ -1,0 +1,53 @@
+name: USO Center
+location: Terminal 2, landside (before security)
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "35.87718025552834"
+longitude: "-78.79354298171022"
+terminal: Terminal 2
+hours:
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 23:00
+    - day: Tuesday
+      startTime: 07:00
+      endTime: 23:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 23:00
+    - day: Thursday
+      startTime: 07:00
+      endTime: 23:00
+    - day: Friday
+      startTime: 07:00
+      endTime: 23:00
+    - day: Saturday
+      startTime: 07:00
+      endTime: 23:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 23:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - business_center
+  - complimentary_wifi
+  - family_room
+  - air_conditioning
+  - accessible
+  - tv
+  - fax
+  - phone
+  - bag_locker
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

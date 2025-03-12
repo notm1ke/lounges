@@ -1,0 +1,55 @@
+name: The Club CLE
+location: Concourse B, after security, turn right into the hall after Ohio Gameday Sports
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Airport Dimensions
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "41.411228228519256"
+longitude: "-81.83980822563173"
+terminal: Concourse B
+hours:
+  days:
+    - day: Monday
+      startTime: 04:30
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 04:30
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 04:30
+      endTime: 21:00
+    - day: Thursday
+      startTime: 04:30
+      endTime: 21:00
+    - day: Friday
+      startTime: 04:30
+      endTime: 21:00
+    - day: Saturday
+      startTime: 04:30
+      endTime: 21:00
+    - day: Sunday
+      startTime: 04:30
+      endTime: 21:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: false

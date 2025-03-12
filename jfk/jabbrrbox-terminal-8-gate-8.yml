@@ -1,0 +1,45 @@
+name: Jabbrrbox
+location: Terminal 8, near gate 8
+access:
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Jabbrrbox
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "40.64802601291773"
+longitude: "-73.79231223550197"
+terminal: Terminal 8
+hours:
+  days:
+    - day: Monday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Tuesday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Wednesday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Thursday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Friday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Saturday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Sunday
+      startTime: 00:00
+      endTime: 00:00
+  timezone: America/New_York
+amenities:
+  - business_center
+  - complimentary_wifi
+  - private_rooms
+  - air_conditioning
+foodOptions: []
+drinks: []
+closed: false

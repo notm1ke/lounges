@@ -1,0 +1,51 @@
+name: USO Center
+location: Terminal C, landside (before security), lower level, near American
+  Airlines Credit Union and the walkway to Terminal E
+access:
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: USO
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "42.36773972300433"
+longitude: "-71.01823214878172"
+terminal: Terminal C
+hours:
+  days:
+    - day: Monday
+      startTime: 08:00
+      endTime: 18:00
+    - day: Tuesday
+      startTime: 08:00
+      endTime: 18:00
+    - day: Wednesday
+      startTime: 08:00
+      endTime: 18:00
+    - day: Thursday
+      startTime: 08:00
+      endTime: 18:00
+    - day: Friday
+      startTime: 08:00
+      endTime: 18:00
+    - day: Saturday
+      startTime: 08:00
+      endTime: 17:00
+    - day: Sunday
+      startTime: 08:00
+      endTime: 17:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - business_center
+  - complimentary_wifi
+  - family_room
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

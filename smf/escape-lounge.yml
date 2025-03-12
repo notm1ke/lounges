@@ -1,0 +1,73 @@
+name: Escape Lounges - The Centurion Studio Partner
+location: Terminal A, near gate A10
+access:
+  - credential: amex_centurion
+    restrictions: null
+  - credential: amex_platinum
+    restrictions: null
+  - credential: amex_platinum_business
+    restrictions: null
+  - credential: amex_platinum_intl
+    restrictions: null
+  - credential: amex_delta_reserve
+    restrictions: null
+  - credential: dragon_pass
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+  - credential: tav_passport
+    restrictions: null
+allowsArrivals: false
+operator: Escape
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "38.69341514024206"
+longitude: "-121.587672829628"
+terminal: Terminal A
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 20:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 20:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 20:00
+    - day: Saturday
+      startTime: 05:00
+      endTime: 20:00
+    - day: Sunday
+      startTime: 05:00
+      endTime: 20:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - family_room
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - fax
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: false

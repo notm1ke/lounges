@@ -1,0 +1,59 @@
+name: Primeclass Lounge
+location: Terminal 4, near gate A2
+access:
+  - credential: dragon_pass
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+  - credential: tav_passport
+    restrictions: null
+allowsArrivals: false
+operator: TAV
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Air Serbia
+  - Singapore Airlines
+latitude: "40.64361182067081"
+longitude: "-73.78031462430955"
+terminal: Terminal 4
+hours:
+  days:
+    - day: Monday
+      startTime: 04:00
+      endTime: 00:00
+    - day: Tuesday
+      startTime: 04:00
+      endTime: 00:00
+    - day: Wednesday
+      startTime: 04:00
+      endTime: 00:00
+    - day: Thursday
+      startTime: 04:00
+      endTime: 00:00
+    - day: Friday
+      startTime: 04:00
+      endTime: 00:00
+    - day: Saturday
+      startTime: 04:00
+      endTime: 00:00
+    - day: Sunday
+      startTime: 04:00
+      endTime: 00:00
+  timezone: America/New_York
+amenities:
+  - complimentary_wifi
+  - conference_rooms
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Premium Drinks For Sale
+closed: false
