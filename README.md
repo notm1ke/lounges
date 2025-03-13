@@ -14,7 +14,7 @@ The lounge data is organized in the following directory structure:
 Each lounge has a similar common schema:
 
 ```yml
-name: American Express The Centurion Lounge
+name: The Centurion Lounge
 location: Terminal 3, Concourse F, near gate F1 (see directions due to ongoing
   construction)
 access:
