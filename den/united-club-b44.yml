@@ -1,4 +1,5 @@
 name: United Club
+slug: den-united-club-b44
 location: Concourse B, near gate B44
 access:
   - credential: united_club
