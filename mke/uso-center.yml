@@ -1,4 +1,5 @@
 name: USO Center
+slug: mke-uso-center
 location: Main terminal area
 access:
   - credential: military

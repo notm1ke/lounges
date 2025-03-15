@@ -1,0 +1,64 @@
+name: Escape Lounges
+slug: xna-escape-lounge-a1
+location: Near walkway to gates A1-A12
+access:
+  - credential: amex_centurion
+    restrictions: null
+  - credential: amex_platinum
+    restrictions: null
+  - credential: amex_platinum_business
+    restrictions: null
+  - credential: amex_platinum_intl
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+  - credential: dragon_pass
+    restrictions: null
+allowsArrivals: false
+operator: Escape
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "36.27608538535664"
+longitude: "-94.29705444681944"
+terminal: ""
+hours:
+  days:
+    - day: Monday
+      startTime: 03:45
+      endTime: 17:00
+    - day: Tuesday
+      startTime: 03:45
+      endTime: 17:00
+    - day: Wednesday
+      startTime: 03:45
+      endTime: 17:00
+    - day: Thursday
+      startTime: 03:45
+      endTime: 17:00
+    - day: Friday
+      startTime: 03:45
+      endTime: 17:00
+    - day: Saturday
+      startTime: 03:45
+      endTime: 17:00
+    - day: Sunday
+      startTime: 03:45
+      endTime: 17:00
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - bar
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: false

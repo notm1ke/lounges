@@ -1,0 +1,48 @@
+name: Be Relax Spa
+slug: ewr-be-relax-spa-a7
+location: Terminal A, near gate A7
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "40.6834124330845"
+longitude: "-74.18737995959572"
+terminal: Terminal A
+hours:
+  days:
+    - day: Monday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 09:00
+      endTime: 21:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - paid_spa
+  - air_conditioning
+  - accessible
+foodOptions: []
+drinks: []
+closed: false

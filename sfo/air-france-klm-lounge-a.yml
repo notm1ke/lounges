@@ -1,0 +1,61 @@
+name: Air France KLM Lounge
+slug: sfo-air-france-klm-lounge-a
+location: International Terminal A, left immediately after security
+access:
+  - credential: qantas_club
+    restrictions: When flying Qantas or Jetstar, or Emirates on a flight booked with
+      a Qantas flight number.
+allowsArrivals: false
+operator: Air France
+alliance: SkyTeam
+allianceLevel: SkyTeam Elite Plus
+allianceMembers:
+  - Air France
+  - EVA Air
+  - KLM
+  - Qantas
+latitude: "37.6146437591262"
+longitude: "-122.38824791313209"
+terminal: International Terminal A
+hours:
+  days:
+    - day: Monday
+      startTime: 12:00
+      endTime: 15:45,20:30
+    - day: Tuesday
+      startTime: 11:00
+      endTime: 15:45,17:30
+    - day: Wednesday
+      startTime: 12:00
+      endTime: 15:45,08:30
+    - day: Thursday
+      startTime: 11:00
+      endTime: 15:45,17:30
+    - day: Friday
+      startTime: 11:00
+      endTime: 15:45,20:30
+    - day: Saturday
+      startTime: 11:00
+      endTime: 15:45,17:30
+    - day: Sunday
+      startTime: 11:00
+      endTime: 15:45,20:30
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: false

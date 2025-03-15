@@ -1,0 +1,71 @@
+name: British Airways Lounge
+slug: bos-british-airways-terraces-lounge-e11
+location: Terminal E, take elevator opposite gate E11 up to 4th floor
+access:
+  - credential: qantas_club
+    restrictions: When flying Qantas or Jetstar.
+allowsArrivals: false
+operator: British Airways
+alliance: OneWorld
+allianceLevel: oneworld Sapphire
+allianceMembers:
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Finnair
+  - Iberia
+  - Icelandair
+  - Japan Airlines
+  - LATAM Airlines Brasil
+  - LATAM Airlines Chile
+  - LATAM Airlines Peru
+  - Malaysia Airlines
+  - Qantas
+  - Qatar Airways
+  - Royal Air Maroc
+  - Royal Jordanian
+  - SriLankan
+latitude: "42.37060917296192"
+longitude: "-71.02083921432497"
+terminal: Terminal E
+hours:
+  days:
+    - day: Monday
+      startTime: 04:30
+      endTime: 13:00,14:00
+    - day: Tuesday
+      startTime: 04:30
+      endTime: 13:00,14:00
+    - day: Wednesday
+      startTime: 04:30
+      endTime: 13:00,14:00
+    - day: Thursday
+      startTime: 04:30
+      endTime: 13:00,14:00
+    - day: Friday
+      startTime: 04:30
+      endTime: 13:00,14:00
+    - day: Saturday
+      startTime: 04:30
+      endTime: 13:00,14:00
+    - day: Sunday
+      startTime: 04:30
+      endTime: 13:00,14:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Cold Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

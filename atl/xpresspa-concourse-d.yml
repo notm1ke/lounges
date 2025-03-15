@@ -1,4 +1,5 @@
 name: XpresSpa
+slug: atl-xpresspa-d
 location: Concourse D, opposite gate D25
 access:
   - credential: lounge_key

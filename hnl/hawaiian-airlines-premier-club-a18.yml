@@ -1,0 +1,49 @@
+name: Hawaiian Airlines Premier Club
+slug: hnl-hawaiian-premier-club-a18
+location: Terminal 1, near gate A18
+access:
+  - credential: hawaiian_premier_club
+    restrictions: null
+allowsArrivals: false
+operator: Hawaiian Airlines
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Hawaiian Airlines
+latitude: "21.333235210293708"
+longitude: "-157.92406508941042"
+terminal: Terminal 1
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 22:00
+  timezone: Pacific/Honolulu
+amenities:
+  - bathroom
+  - bar
+  - complimentary_wifi
+  - air_conditioning
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

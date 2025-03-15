@@ -1,0 +1,56 @@
+name: British Airways Chelsea Lounge
+slug: jfk-chelsea-lounge-t8-b14
+location: Terminal 8, Concourse B, near gate B14
+access: []
+allowsArrivals: false
+operator: British Airways
+alliance: OneWorld
+allianceLevel: None
+allianceMembers:
+  - American Airlines
+  - British Airways
+latitude: "40.6484431990204"
+longitude: "-73.79023075103761"
+terminal: Terminal 8
+hours:
+  days:
+    - day: Monday
+      startTime: 04:15
+      endTime: 23:30
+    - day: Tuesday
+      startTime: 04:15
+      endTime: 23:30
+    - day: Wednesday
+      startTime: 04:15
+      endTime: 23:30
+    - day: Thursday
+      startTime: 04:15
+      endTime: 23:30
+    - day: Friday
+      startTime: 04:15
+      endTime: 23:30
+    - day: Saturday
+      startTime: 04:15
+      endTime: 23:30
+    - day: Sunday
+      startTime: 04:15
+      endTime: 23:30
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+  - Complimentary Full Service Restaurant
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

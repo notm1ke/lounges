@@ -1,4 +1,5 @@
 name: The Centurion Lounge
+slug: iah-centurion-lounge-d14
 location: Terminal D, near gate D14 and Duty Free
 access:
   - credential: amex_centurion

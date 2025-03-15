@@ -1,4 +1,5 @@
 name: American Airlines Admirals Club
+slug: aus-admirals-club-a22
 location: Barbara Jordan Terminal, opposite gate 22
 access:
   - credential: military

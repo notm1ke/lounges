@@ -1,0 +1,84 @@
+name: Virgin Atlantic Clubhouse
+slug: jfk-virgin-atlantic-clubhouse-t4-a4
+location: Terminal 4, above gates A4-A5, opposite Emirates Lounge
+access:
+  - credential: el_al_king_david_club
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Virgin Atlantic
+alliance: SkyTeam
+allianceLevel: SkyTeam Elite Plus
+allianceMembers:
+  - Aerolineas Argentinas
+  - Aeromexico
+  - Air Europa
+  - Air France
+  - China Airlines
+  - China Eastern
+  - Delta
+  - El Al
+  - Garuda Indonesia
+  - Kenya Airways
+  - KLM
+  - Korean Air
+  - LATAM Airlines Brasil
+  - LATAM Airlines Chile
+  - LATAM Airlines Peru
+  - MEA Middle East Airlines
+  - SAS
+  - Saudia
+  - Singapore Airlines
+  - TAROM
+  - Vietnam Airlines
+  - Virgin Atlantic
+  - Xiamen Airlines
+latitude: "40.64332587514337"
+longitude: "-73.77934902906419"
+terminal: Terminal 4
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 08:00,15:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 08:00,15:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 08:00,15:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 08:00,15:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 08:00,15:00
+    - day: Saturday
+      startTime: 05:00
+      endTime: 08:00,15:00
+    - day: Sunday
+      startTime: 05:00
+      endTime: 08:00,15:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - barista_coffee
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+  - bag_locker
+foodOptions:
+  - Complimentary Hot Buffet
+  - Complimentary Full Service Restaurant
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

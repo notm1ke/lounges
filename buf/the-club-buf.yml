@@ -1,4 +1,5 @@
-name: The Club BUF
+name: The Club at BUF
+slug: buf-the-club-buf-6
 location: Between gates 6-7
 access:
   - credential: lounge_key
@@ -8,7 +9,7 @@ access:
   - credential: tav_passport
     restrictions: null
 allowsArrivals: false
-operator: Airport Dimensions
+operator: The Club
 alliance: None
 allianceLevel: None
 allianceMembers: []

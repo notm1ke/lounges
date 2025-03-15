@@ -1,0 +1,63 @@
+name: Chase Sapphire Lounge
+slug: lga-chase-sapphire-lounge-b
+location: Terminal B, near Brooklyn Diner and gates 41-59
+access:
+  - credential: priority_pass
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+allowsArrivals: false
+operator: Chase 
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "40.77310344197666"
+longitude: "-73.87121728510749"
+terminal: Terminal B
+hours:
+  days:
+    - day: Monday
+      startTime: 04:30
+      endTime: 21:30
+    - day: Tuesday
+      startTime: 04:30
+      endTime: 21:30
+    - day: Wednesday
+      startTime: 04:30
+      endTime: 21:30
+    - day: Thursday
+      startTime: 04:30
+      endTime: 21:30
+    - day: Friday
+      startTime: 04:30
+      endTime: 21:30
+    - day: Saturday
+      startTime: 04:30
+      endTime: 21:30
+    - day: Sunday
+      startTime: 04:30
+      endTime: 21:30
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - family_room
+  - spa
+  - paid_private_rooms
+  - barista_coffee
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+  - Complimentary Cooked-to-order Meals
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

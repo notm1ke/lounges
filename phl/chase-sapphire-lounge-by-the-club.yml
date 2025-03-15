@@ -6,7 +6,7 @@ access:
   - credential: lounge_key
     restrictions: null
 allowsArrivals: false
-operator: Airport Dimensions
+operator: The Club
 alliance: None
 allianceLevel: None
 allianceMembers: []

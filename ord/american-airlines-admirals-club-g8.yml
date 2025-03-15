@@ -1,0 +1,78 @@
+name: American Airlines Admirals Club
+slug: ord-admirals-club-g8
+location: Terminal 3, Concourse G, opposite gate G8
+access:
+  - credential: military
+    restrictions: null
+  - credential: american_admirals_club
+    restrictions: null
+  - credential: alaska_plus
+    restrictions: null
+  - credential: qantas_club
+    restrictions: When flying Qantas or JetStar.
+  - credential: american_citi_executive
+    restrictions: null
+allowsArrivals: false
+operator: American Airlines
+alliance: OneWorld
+allianceLevel: oneworld Sapphire
+allianceMembers:
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Finnair
+  - Iberia
+  - Japan Airlines
+  - Malaysia Airlines
+  - Qantas
+  - Qatar Airways
+  - Royal Air Maroc
+  - Royal Jordanian
+  - SriLankan
+latitude: "41.974345681905724"
+longitude: "-87.90315091609955"
+terminal: Terminal 3
+hours:
+  days:
+    - day: Monday
+      startTime: 06:15
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 06:15
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 06:15
+      endTime: 20:00
+    - day: Thursday
+      startTime: 06:15
+      endTime: 20:00
+    - day: Friday
+      startTime: 06:15
+      endTime: 20:00
+    - day: Saturday
+      startTime: 06:15
+      endTime: 20:00
+    - day: Sunday
+      startTime: 06:15
+      endTime: 20:00
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Food For Sale
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

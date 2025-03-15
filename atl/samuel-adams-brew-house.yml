@@ -1,4 +1,5 @@
 name: Samuel Adams Brew House
+slug: atl-samuel-adams-brew-house-b
 location: Concourse B, after security, Food Court
 access:
   - credential: lounge_key

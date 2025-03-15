@@ -1,0 +1,61 @@
+name: Chase Sapphire Lounge 
+slug: jfk-chase-sapphire-lounge-t4
+location: Terminal 4, turn left immediately after security (mezzanine above gate A2)
+access:
+  - credential: priority_pass
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+allowsArrivals: false
+operator: Chase 
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Etihad
+latitude: "40.64354262400074"
+longitude: "-73.78069013357164"
+terminal: Terminal 4
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 23:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 23:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 23:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 23:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 23:00
+    - day: Saturday
+      startTime: 05:00
+      endTime: 23:00
+    - day: Sunday
+      startTime: 05:00
+      endTime: 23:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - prayer_room
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+  - Complimentary Cooked-to-order Meals
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

@@ -1,4 +1,5 @@
 name: The Centurion Lounge
+slug: atl-centurion-lounge-e11
 location: Concourse E, near gate E11
 access:
   - credential: amex_centurion

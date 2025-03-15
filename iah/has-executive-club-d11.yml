@@ -1,0 +1,55 @@
+name: HAS Executive Club
+slug: iah-has-executive-club-d11
+location: Terminal D, opposite gates D11-D12
+access: []
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Air China
+  - British Airways
+  - Emirates
+  - EVA Air
+latitude: "29.987738170514707"
+longitude: "-95.33469378948213"
+terminal: Terminal D
+hours:
+  days:
+    - day: Monday
+      startTime: 12:00
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 12:00
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 12:00
+      endTime: 20:00
+    - day: Thursday
+      startTime: 12:00
+      endTime: 20:00
+    - day: Friday
+      startTime: 12:00
+      endTime: 20:00
+    - day: Saturday
+      startTime: 12:00
+      endTime: 20:00
+    - day: Sunday
+      startTime: 12:00
+      endTime: 20:00
+  timezone: America/Chicago
+amenities:
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+  - Complimentary Soups
+  - Complimentary Finger Food
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: false

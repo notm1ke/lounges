@@ -1,4 +1,5 @@
 name: USO Center
+slug: sna-uso-center
 location: Landside (before security), Terminal B, baggage claim, near carousel 4
 access:
   - credential: military

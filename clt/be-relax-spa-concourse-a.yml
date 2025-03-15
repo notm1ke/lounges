@@ -1,4 +1,5 @@
 name: Be Relax Spa
+slug: clt-be-relax-spa-a
 location: Concourse A, after security, Concourse A/B Connector
 access:
   - credential: lounge_key

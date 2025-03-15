@@ -1,4 +1,5 @@
 name: MLB Premium Lounge
+slug: mlb-premium-lounge
 location: After security
 access:
   - credential: priority_pass

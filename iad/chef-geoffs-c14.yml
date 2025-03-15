@@ -1,0 +1,50 @@
+name: Chef Geoff's
+slug: iad-chef-geoffs-c14
+location: Midfield Terminal, Concourse C, near gate C14
+access:
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "38.9454430807"
+longitude: "-77.4445087696"
+terminal: Midfield Terminal, Concourse C
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 22:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions:
+  - Food For Sale
+drinks:
+  - Premium Drinks For Sale
+closed: false

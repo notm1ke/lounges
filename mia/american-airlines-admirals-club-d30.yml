@@ -1,4 +1,5 @@
 name: American Airlines Admirals Club
+slug: mia-admirals-club-d30
 location: Concourse D, opposite gate D30
 access:
   - credential: military

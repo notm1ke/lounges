@@ -1,0 +1,79 @@
+name: Qantas Intl Business Lounge
+slug: hnl-qantas-international-business-lounge-e1
+location: Terminal 2, Cultural Garden area, ground level, take stairs or
+  elevator near connector to gate E1
+access:
+  - credential: alaska_plus
+    restrictions: When flying Qantas.
+  - credential: american_admirals_club
+    restrictions: null
+  - credential: qantas_club
+    restrictions: When flying Qantas or JetStar.
+  - credential: qantas_club
+    restrictions: When flying Qantas or JetStar. Redeem a lounge invitation.
+  - credential: anz_frequent_flyer_black
+    restrictions: null
+  - credential: amex_qantas_ultimate
+    restrictions: null
+allowsArrivals: false
+operator: Qantas
+alliance: OneWorld
+allianceLevel: oneworld Sapphire
+allianceMembers:
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Fiji Airways
+  - Finnair
+  - Iberia
+  - Japan Airlines
+  - Jetstar
+  - Malaysia Airlines
+  - Philippine Airlines
+  - Qantas
+  - Qatar Airways
+  - Royal Air Maroc
+  - Royal Jordanian
+  - SriLankan
+latitude: "21.330824084374057"
+longitude: "-157.92327383775103"
+terminal: Terminal 2
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 11:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 11:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 11:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 11:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 11:00
+  timezone: Pacific/Honolulu
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: false

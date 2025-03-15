@@ -1,4 +1,5 @@
 name: American Airlines Admirals Club
+slug: phx-admirals-club-a7
 location: Terminal 4, Concourse A, above gates A7-A9
 access:
   - credential: military

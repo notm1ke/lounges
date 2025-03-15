@@ -1,4 +1,5 @@
 name: American Airlines Admirals Club
+slug: atl-admirals-club-t11
 location: North Terminal, Concourse T, opposite gate T11
 access:
   - credential: military

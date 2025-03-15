@@ -1,4 +1,5 @@
 name: USO Center
+slug: iah-uso-center
 location: Terminal D, opposite gate D8
 access:
   - credential: military

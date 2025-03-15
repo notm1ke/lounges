@@ -1,4 +1,5 @@
 name: United Club
+slug: iad-united-club-d8
 location: Midfield Terminal, Concourse D, near gate D8
 access:
   - credential: united_club

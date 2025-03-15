@@ -1,4 +1,5 @@
 name: USO Center
+slug: den-uso-center
 location: Concourse A, Center Court, level 4, near airline clubs
 access:
   - credential: military

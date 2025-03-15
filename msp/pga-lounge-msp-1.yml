@@ -1,0 +1,58 @@
+name: PGA MSP Lounge
+slug: msp-pga-lounge-msp-1
+location: Terminal 1, north end of the airport mall, towards Ike's Food &
+  Cocktails. Take the stairs between Ike's and French Meadow to the mezzanine
+  level
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "44.884663"
+longitude: "-93.2108"
+terminal: Terminal 1
+hours:
+  days:
+    - day: Monday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Thursday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Friday
+      startTime: 08:00
+      endTime: 20:00
+    - day: Saturday
+      startTime: 08:00
+      endTime: 19:00
+    - day: Sunday
+      startTime: 08:00
+      endTime: 19:00
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - conference_rooms
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Food For Sale
+drinks:
+  - Premium Drinks For Sale
+closed: false

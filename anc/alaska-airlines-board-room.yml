@@ -1,5 +1,6 @@
 name: Alaska Lounge
-location: Concourse C, near gate C-1
+slug: anc-alaska-lounge-c1
+location: Concourse C, near gate C1
 access:
   - credential: alaska_plus
     restrictions: null

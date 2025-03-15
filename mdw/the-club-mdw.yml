@@ -1,4 +1,5 @@
-name: The Club MDW
+name: The Club at MDW
+slug: mdw-the-club-mdw
 location: After security, opposite Food Court
 access:
   - credential: lounge_key
@@ -6,7 +7,7 @@ access:
   - credential: priority_pass
     restrictions: null
 allowsArrivals: false
-operator: Airport Dimensions
+operator: The Club
 alliance: None
 allianceLevel: None
 allianceMembers: []

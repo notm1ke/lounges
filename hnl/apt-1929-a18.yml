@@ -1,0 +1,37 @@
+name: Hawaiian Airlines Apt. 1929
+slug: hnl-apt-1929-a18
+location: Terminal 1, near gate A18, upper level
+access: []
+allowsArrivals: false
+operator: Hawaiian Airlines
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Hawaiian Airlines
+latitude: "21.33349559731711"
+longitude: "-157.9236442415897"
+terminal: Terminal 1
+hours:
+  days: []
+  timezone: ""
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - outdoor_deck
+  - car_transfer
+  - fast_track
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Cooked-to-order Meals
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

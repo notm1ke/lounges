@@ -1,4 +1,5 @@
 name: USO Center
+slug: fay-uso-center
 location: "After security, Suite #4"
 access:
   - credential: military

@@ -1,0 +1,47 @@
+name: XpresSpa
+slug: las-xpresspa-d32
+location: Concourse D, near gate D32
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "36.081404479431725"
+longitude: "-115.13853183246286"
+terminal: Concourse D
+hours:
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 23:00
+    - day: Tuesday
+      startTime: 07:00
+      endTime: 23:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 23:00
+    - day: Thursday
+      startTime: 07:00
+      endTime: 23:00
+    - day: Friday
+      startTime: 07:00
+      endTime: 23:00
+    - day: Saturday
+      startTime: 07:00
+      endTime: 23:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 23:00
+  timezone: America/Los_Angeles
+amenities:
+  - paid_spa
+  - air_conditioning
+  - accessible
+foodOptions: []
+drinks: []
+closed: false

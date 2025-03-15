@@ -1,4 +1,5 @@
 name: USO Center
+slug: mci-uso-center
 location: Landside (before security), baggage claim, behind carousel 5
 access:
   - credential: military

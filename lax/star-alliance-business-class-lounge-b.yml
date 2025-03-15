@@ -1,0 +1,94 @@
+name: Star Alliance Business Class lounge
+slug: lax-star-alliance-business-class-lounge-b
+location: Tom Bradley International Terminal (Terminal B), after security, level 6
+access:
+  - credential: united_club
+    restrictions: When flying a Star Alliance member airline.
+  - credential: air_canada_maple_leaf
+    restrictions: When flying a Star Alliance member airline.
+  - credential: new_zealand_koru_club
+    restrictions: When flying Air New Zealand.
+allowsArrivals: false
+operator: Star Alliance
+alliance: Star Alliance
+allianceLevel: Star Alliance Gold
+allianceMembers:
+  - Aegean
+  - Air Canada
+  - Air China
+  - Air India
+  - Air New Zealand
+  - Air Tahiti Nui
+  - ANA
+  - Asiana
+  - Austrian
+  - Avianca
+  - Brussels Airlines
+  - Copa Airlines
+  - Croatia Airlines
+  - EGYPTAIR
+  - Ethiopian Airlines
+  - EVA Air
+  - Fiji Airways
+  - LATAM Airlines Brasil
+  - LATAM Airlines Chile
+  - LATAM Airlines Peru
+  - LOT Polish Airlines
+  - Lufthansa
+  - Philippine Airlines
+  - Shenzhen Airlines
+  - Singapore Airlines
+  - South African Airways
+  - SWISS
+  - TAP Air Portugal
+  - Thai Airways
+  - Turkish Airlines
+  - United
+  - Virgin Atlantic
+latitude: "33.94374284695648"
+longitude: "-118.4092166455078"
+terminal: Tom Bradley International Terminal (Terminal B)
+hours:
+  days:
+    - day: Monday
+      startTime: 09:00
+      endTime: 01:00
+    - day: Tuesday
+      startTime: 09:00
+      endTime: 01:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 01:00
+    - day: Thursday
+      startTime: 07:00
+      endTime: 01:00
+    - day: Friday
+      startTime: 09:00
+      endTime: 01:00
+    - day: Saturday
+      startTime: 07:00
+      endTime: 01:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 01:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - bag_locker
+  - outdoor_deck
+foodOptions:
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

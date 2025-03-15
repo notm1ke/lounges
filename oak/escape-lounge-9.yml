@@ -1,0 +1,76 @@
+name: Escape Lounges
+slug: oak-escape-lounge-9
+location: Terminal 1, opposite gate 9, between gates 8-8A
+access:
+  - credential: amex_centurion
+    restrictions: null
+  - credential: amex_platinum
+    restrictions: null
+  - credential: amex_platinum_business
+    restrictions: null
+  - credential: amex_platinum_intl
+    restrictions: null
+  - credential: amex_delta_reserve
+    restrictions: null
+  - credential: dragon_pass
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+  - credential: tav_passport
+    restrictions: null
+allowsArrivals: false
+operator: Escape
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Azores Airlines
+  - British Airways
+latitude: "37.71128284908029"
+longitude: "-122.21563160419466"
+terminal: Terminal 1
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 20:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 20:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 20:00
+    - day: Saturday
+      startTime: 05:00
+      endTime: 20:00
+    - day: Sunday
+      startTime: 05:00
+      endTime: 20:00
+  timezone: America/Los_Angeles
+amenities:
+  - bar
+  - business_center
+  - complimentary_wifi
+  - family_room
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - fax
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Cold Buffet
+  - Complimentary Soups
+  - Complimentary Finger Food
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

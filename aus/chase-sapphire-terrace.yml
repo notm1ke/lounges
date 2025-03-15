@@ -1,4 +1,5 @@
 name: Chase Sapphire Terrace
+slug: aus-chase-sapphire-terrace
 location: Barbara Jordan Terminal, near gate 4 and Delta Sky Club
 access:
   - credential: jpmorgan_reserve
@@ -6,7 +7,7 @@ access:
   - credential: chase_sapphire_reserve
     restrictions: null
 allowsArrivals: false
-operator: Independent
+operator: Chase 
 alliance: None
 allianceLevel: None
 allianceMembers: []

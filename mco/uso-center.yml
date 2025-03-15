@@ -1,4 +1,5 @@
 name: USO Center
+slug: mco-uso-center
 location: Terminal A, landside (before security), level 1
 access:
   - credential: military

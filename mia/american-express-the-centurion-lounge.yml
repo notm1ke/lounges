@@ -1,4 +1,5 @@
 name: The Centurion Lounge
+slug: mia-centurion-lounge-d12
 location: Concourse D, near gate D12, 4th floor
 access:
   - credential: amex_centurion

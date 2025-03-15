@@ -1,4 +1,5 @@
 name: USO Center
+slug: hnl-uso-center
 location: Terminal 2, landside (before security), baggage claim, between carousels 19-20
 access:
   - credential: military

@@ -1,0 +1,75 @@
+name: Escape Lounges
+slug: gsp-escape-lounge-b
+location: After security
+access:
+  - credential: amex_centurion
+    restrictions: null
+  - credential: amex_platinum
+    restrictions: null
+  - credential: amex_platinum_business
+    restrictions: null
+  - credential: amex_platinum_intl
+    restrictions: null
+  - credential: amex_delta_reserve
+    restrictions: null
+  - credential: tav_passport
+    restrictions: null
+  - credential: dragon_pass
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+allowsArrivals: false
+operator: Escape
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "34.891211240327365"
+longitude: "-82.21694290637971"
+terminal: ""
+hours:
+  days:
+    - day: Monday
+      startTime: 04:30
+      endTime: 19:30
+    - day: Tuesday
+      startTime: 04:30
+      endTime: 19:30
+    - day: Wednesday
+      startTime: 04:30
+      endTime: 19:30
+    - day: Thursday
+      startTime: 04:30
+      endTime: 19:30
+    - day: Friday
+      startTime: 04:30
+      endTime: 19:30
+    - day: Saturday
+      startTime: 04:30
+      endTime: 19:30
+    - day: Sunday
+      startTime: 04:30
+      endTime: 19:30
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - family_room
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - fax
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

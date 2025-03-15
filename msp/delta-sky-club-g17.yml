@@ -1,0 +1,92 @@
+name: Delta Sky Club
+slug: msp-delta-sky-club-g17
+location: Concourse G, between gates 17-18
+access:
+  - credential: delta_sky_club
+    restrictions: null
+  - credential: amex_delta_reserve
+    restrictions: When flying Delta.
+  - credential: amex_platinum
+    restrictions: When flying Delta. 10 complimentary visits a year.
+  - credential: amex_platinum_business
+    restrictions: When flying Delta. 10 complimentary visits a year.
+  - credential: amex_platinum_intl
+    restrictions: When flying Delta.
+  - credential: amex_centurion
+    restrictions: When flying Delta.
+  - credential: delta_sky_club
+    restrictions: When flying Delta. Max. 3 visits a year.
+  - credential: delta_sky_club
+    restrictions: Max. 6 visits a year.
+  - credential: amex_platinum_intl
+    restrictions: null
+allowsArrivals: false
+operator: Delta
+alliance: SkyTeam
+allianceLevel: SkyTeam Elite Plus
+allianceMembers:
+  - Aerolineas Argentinas
+  - Aeromexico
+  - Air Europa
+  - Air France
+  - China Airlines
+  - China Eastern
+  - Delta
+  - Garuda Indonesia
+  - Kenya Airways
+  - KLM
+  - Korean Air
+  - MEA Middle East Airlines
+  - SAS
+  - Saudia
+  - TAROM
+  - Vietnam Airlines
+  - Virgin Atlantic
+  - Xiamen Airlines
+latitude: "44.87966907955485"
+longitude: "-93.20682760536606"
+terminal: Concourse G
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 22:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 22:00
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - outdoor_deck
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

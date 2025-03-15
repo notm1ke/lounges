@@ -1,0 +1,48 @@
+name: Be Relax Spa
+slug: iah-be-relax-spa-d1
+location: Terminal D, near gate D1
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "29.988356125986456"
+longitude: "-95.33858550770655"
+terminal: Terminal D
+hours:
+  days:
+    - day: Monday
+      startTime: 08:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 08:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 08:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 08:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 08:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 08:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 08:00
+      endTime: 21:00
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - paid_spa
+  - air_conditioning
+  - accessible
+foodOptions: []
+drinks: []
+closed: false

@@ -1,0 +1,28 @@
+name: The Tap (The Fan Zone)
+slug: ind-the-fan-zone-b17
+location: Concourse B, near gate B17
+access:
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "39.7179007162"
+longitude: "-86.2968759165"
+terminal: Concourse B
+hours:
+  days: []
+  timezone: ""
+amenities:
+  - bathroom
+  - bar
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+foodOptions: []
+drinks: []
+closed: false

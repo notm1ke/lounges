@@ -1,4 +1,5 @@
 name: XpresSpa
+slug: atl-xpresspa-e
 location: Concourse E, near Food Court
 access:
   - credential: lounge_key

@@ -1,0 +1,53 @@
+name: Minute Suites
+slug: bwi-minute-suites-c3
+location: Concourse C, between gates C3-C5, next to Urban Bar-B-Que
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Minute Suites
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "39.17808562143971"
+longitude: "-76.6672593355179"
+terminal: Concourse C
+hours:
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 22:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Saturday
+      startTime: 05:00
+      endTime: 22:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 22:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+  - fax
+foodOptions:
+  - Food For Sale
+drinks:
+  - Premium Drinks For Sale
+closed: false

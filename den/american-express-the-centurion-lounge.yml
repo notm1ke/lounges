@@ -1,4 +1,5 @@
 name: The Centurion Lounge
+slug: den-centurion-lounge-c46
 location: Concourse C, near gate C46, mezzanine level
 access:
   - credential: amex_centurion

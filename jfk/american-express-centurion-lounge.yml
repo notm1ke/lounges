@@ -1,4 +1,5 @@
 name: The Centurion Lounge
+slug: jfk-centurion-lounge-t4-a2
 location: Terminal 4, immediately after security, before gate A2
 access:
   - credential: amex_centurion

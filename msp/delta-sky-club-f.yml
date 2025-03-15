@@ -1,4 +1,5 @@
 name: Delta Sky Club
+slug: msp-delta-sky-club-f
 location: Concourse F, between Concourses F-G
 access:
   - credential: delta_sky_club

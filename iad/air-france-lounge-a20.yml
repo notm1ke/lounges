@@ -1,0 +1,82 @@
+name: Air France KLM Lounge
+slug: iad-air-france-lounge-a20
+location: Concourse A, opposite gate A20
+access:
+  - credential: delta_sky_club
+    restrictions: When flying a SkyTeam member airline.
+  - credential: dragon_pass
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Air France
+alliance: SkyTeam
+allianceLevel: SkyTeam Elite Plus
+allianceMembers:
+  - Aerolineas Argentinas
+  - Aeromexico
+  - Air Europa
+  - Air France
+  - China Airlines
+  - China Eastern
+  - Delta
+  - Emirates
+  - Garuda Indonesia
+  - Icelandair
+  - Kenya Airways
+  - KLM
+  - Korean Air
+  - MEA Middle East Airlines
+  - SAS
+  - Saudia
+  - TAROM
+  - Vietnam Airlines
+  - Virgin Atlantic
+  - Xiamen Airlines
+latitude: "38.9488429978118"
+longitude: "-77.44619083762052"
+terminal: Concourse A
+hours:
+  days:
+    - day: Monday
+      startTime: 07:30
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 07:30
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 07:30
+      endTime: 21:00
+    - day: Thursday
+      startTime: 07:30
+      endTime: 21:00
+    - day: Friday
+      startTime: 07:30
+      endTime: 21:00
+    - day: Saturday
+      startTime: 07:30
+      endTime: 21:00
+    - day: Sunday
+      startTime: 07:30
+      endTime: 21:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Cold Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

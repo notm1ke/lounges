@@ -1,4 +1,5 @@
 name: USO Center
+slug: pit-uso-center
 location: Concourse C, near gate C54
 access:
   - credential: military

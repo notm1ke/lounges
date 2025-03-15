@@ -1,0 +1,52 @@
+name: Mustards Bar & Grill
+slug: sfo-mustards-bar-grill-g3
+location: International Terminal G, near gate G3
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "37.61748210456577"
+longitude: "-122.39069402217866"
+terminal: International Terminal G
+hours:
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Thursday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Friday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Saturday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 20:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions:
+  - Food For Sale
+drinks:
+  - Premium Drinks For Sale
+closed: false

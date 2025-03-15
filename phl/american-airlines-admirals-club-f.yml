@@ -1,4 +1,5 @@
 name: American Airlines Admirals Club
+slug: phl-admirals-club-f
 location: Concourse F, level 2, above Food Court
 access:
   - credential: military

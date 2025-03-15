@@ -1,4 +1,5 @@
 name: American Airlines Admirals Club
+slug: phl-admirals-club-a4
 location: Concourse A, East wing, between gates A4-A6A
 access:
   - credential: military

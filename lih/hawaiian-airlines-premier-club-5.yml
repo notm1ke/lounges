@@ -1,0 +1,50 @@
+name: Hawaiian Airlines Premier Club
+slug: lih-hawaiian-premier-club-5
+location: Near gate 5
+access:
+  - credential: hawaiian_premier_club
+    restrictions: null
+allowsArrivals: false
+operator: Hawaiian Airlines
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Hawaiian Airlines
+latitude: "21.978456158901092"
+longitude: "-159.34837726392368"
+terminal: ""
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 19:30
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 19:30
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 19:30
+    - day: Thursday
+      startTime: 06:00
+      endTime: 19:30
+    - day: Friday
+      startTime: 06:00
+      endTime: 19:30
+    - day: Saturday
+      startTime: 06:00
+      endTime: 19:30
+    - day: Sunday
+      startTime: 06:00
+      endTime: 19:30
+  timezone: Pacific/Honolulu
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

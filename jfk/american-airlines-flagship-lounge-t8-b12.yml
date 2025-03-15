@@ -1,0 +1,70 @@
+name: Greenwich Lounge
+slug: jfk-greenwich-lounge-t8-b12
+location: Terminal 8, Concourse B, near gate B12
+access: []
+allowsArrivals: false
+operator: American Airlines
+alliance: OneWorld
+allianceLevel: oneworld Sapphire
+allianceMembers:
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Finnair
+  - Iberia
+  - Japan Airlines
+  - Malaysia Airlines
+  - Qantas
+  - Qatar Airways
+  - Royal Air Maroc
+  - Royal Jordanian
+  - SriLankan
+latitude: "40.647950715636"
+longitude: "-73.79086375236513"
+terminal: Terminal 8
+hours:
+  days:
+    - day: Monday
+      startTime: 04:15
+      endTime: 01:15
+    - day: Tuesday
+      startTime: 04:15
+      endTime: 01:15
+    - day: Wednesday
+      startTime: 04:15
+      endTime: 01:15
+    - day: Thursday
+      startTime: 04:15
+      endTime: 01:15
+    - day: Friday
+      startTime: 04:15
+      endTime: 01:15
+    - day: Saturday
+      startTime: 04:15
+      endTime: 01:15
+    - day: Sunday
+      startTime: 04:15
+      endTime: 01:05
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - family_room
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+  - Premium Drinks For Sale
+closed: false

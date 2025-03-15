@@ -1,0 +1,88 @@
+name: Lufthansa Senator Lounge
+slug: iad-lufthansa-senator-lounge-b49
+location: Concourse B, near gates B49 - B51
+access:
+  - credential: amex_centurion
+    restrictions: When flying Lufthansa, SWISS, or Austrian in Business Class.
+  - credential: amex_platinum
+    restrictions: When flying Lufthansa, SWISS, or Austrian in Business Class.
+  - credential: amex_platinum_business
+    restrictions: When flying Lufthansa, SWISS, or Austrian in Business Class.
+  - credential: amex_platinum_intl
+    restrictions: When flying Lufthansa, SWISS, or Austrian in Business Class.
+allowsArrivals: false
+operator: Lufthansa
+alliance: Star Alliance
+allianceLevel: Star Alliance Gold
+allianceMembers:
+  - Aegean
+  - Air Canada
+  - Air China
+  - Air India
+  - Air New Zealand
+  - ANA
+  - Asiana
+  - Austrian
+  - Avianca
+  - Brussels Airlines
+  - Copa Airlines
+  - Croatia Airlines
+  - EGYPTAIR
+  - Ethiopian Airlines
+  - EVA Air
+  - LOT Polish Airlines
+  - Lufthansa
+  - Shenzhen Airlines
+  - Singapore Airlines
+  - South African Airways
+  - SWISS
+  - TAP Air Portugal
+  - Thai Airways
+  - Turkish Airlines
+  - United
+latitude: "38.95296862719116"
+longitude: "-77.44817333995058"
+terminal: Concourse B
+hours:
+  days:
+    - day: Monday
+      startTime: 13:30
+      endTime: 22:00
+    - day: Tuesday
+      startTime: 13:30
+      endTime: 22:00
+    - day: Wednesday
+      startTime: 13:30
+      endTime: 22:00
+    - day: Thursday
+      startTime: 13:30
+      endTime: 22:00
+    - day: Friday
+      startTime: 13:30
+      endTime: 22:00
+    - day: Saturday
+      startTime: 13:30
+      endTime: 22:00
+    - day: Sunday
+      startTime: 13:30
+      endTime: 22:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - bag_locker
+foodOptions:
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

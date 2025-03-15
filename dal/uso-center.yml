@@ -1,4 +1,5 @@
 name: USO Center
+slug: dal-uso-center
 location: After security, near Dallas Cowboys Club
 access:
   - credential: military

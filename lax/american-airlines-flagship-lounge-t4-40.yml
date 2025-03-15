@@ -1,0 +1,68 @@
+name: American Airlines Flagship Lounge
+slug: lax-american-flagship-t4-40
+location: Terminal 4, opposite gate 40
+access: []
+allowsArrivals: false
+operator: American Airlines
+alliance: OneWorld
+allianceLevel: oneworld Sapphire
+allianceMembers:
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Finnair
+  - Iberia
+  - Japan Airlines
+  - Malaysia Airlines
+  - Qantas
+  - Qatar Airways
+  - Royal Air Maroc
+  - Royal Jordanian
+  - SriLankan
+latitude: "33.941811239456314"
+longitude: "-118.40708792209627"
+terminal: Terminal 4
+hours:
+  days:
+    - day: Monday
+      startTime: 04:45
+      endTime: 00:45
+    - day: Tuesday
+      startTime: 04:45
+      endTime: 00:45
+    - day: Wednesday
+      startTime: 04:45
+      endTime: 00:45
+    - day: Thursday
+      startTime: 04:45
+      endTime: 00:45
+    - day: Friday
+      startTime: 04:45
+      endTime: 00:45
+    - day: Saturday
+      startTime: 04:45
+      endTime: 00:45
+    - day: Sunday
+      startTime: 04:45
+      endTime: 00:45
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+  - Complimentary Full Service Restaurant
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

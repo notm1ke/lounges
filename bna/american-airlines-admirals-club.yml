@@ -1,4 +1,5 @@
 name: American Airlines Admirals Club
+slug: bna-admirals-club-c14
 location: Concourse C, opposite gate C14, mezzanine level
 access:
   - credential: military

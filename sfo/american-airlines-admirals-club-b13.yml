@@ -1,0 +1,80 @@
+name: American Airlines Admirals Club
+slug: sfo-admirals-club-b13
+location: Terminal 1, opposite gate B13
+access:
+  - credential: military
+    restrictions: null
+  - credential: american_admirals_club
+    restrictions: null
+  - credential: alaska_plus
+    restrictions: null
+  - credential: qantas_club
+    restrictions: When flying Qantas or JetStar.
+  - credential: american_citi_executive
+    restrictions: null
+allowsArrivals: false
+operator: American Airlines
+alliance: OneWorld
+allianceLevel: oneworld Sapphire
+allianceMembers:
+  - Aer Lingus
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Finnair
+  - Iberia
+  - Japan Airlines
+  - Malaysia Airlines
+  - Qantas
+  - Qatar Airways
+  - Royal Air Maroc
+  - Royal Jordanian
+  - SriLankan
+latitude: "37.61211520416585"
+longitude: "-122.38528132438661"
+terminal: Terminal 1
+hours:
+  days:
+    - day: Monday
+      startTime: 04:30
+      endTime: 23:30
+    - day: Tuesday
+      startTime: 04:30
+      endTime: 23:30
+    - day: Wednesday
+      startTime: 04:30
+      endTime: 23:30
+    - day: Thursday
+      startTime: 04:30
+      endTime: 23:30
+    - day: Friday
+      startTime: 04:30
+      endTime: 23:30
+    - day: Saturday
+      startTime: 04:30
+      endTime: 23:30
+    - day: Sunday
+      startTime: 04:30
+      endTime: 23:30
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - complimentary_wifi
+  - showers
+  - conference_rooms
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Soups
+  - Complimentary Finger Food
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

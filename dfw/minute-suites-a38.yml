@@ -1,0 +1,57 @@
+name: Minute Suites
+slug: dfw-minute-suites-a38
+location: Terminal A, near gate A38
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Minute Suites
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "32.90223384472453"
+longitude: "-97.03816815250093"
+terminal: Terminal A
+hours:
+  days:
+    - day: Monday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Tuesday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Wednesday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Thursday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Friday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Saturday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Sunday
+      startTime: 00:00
+      endTime: 00:00
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - business_center
+  - complimentary_wifi
+  - showers
+  - smoking_room
+  - private_rooms
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+  - fax
+foodOptions:
+  - Food For Sale
+drinks:
+  - Premium Drinks For Sale
+closed: false

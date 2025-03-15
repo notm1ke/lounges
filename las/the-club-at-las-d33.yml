@@ -1,0 +1,67 @@
+name: The Club at LAS
+slug: las-the-club-at-las-d33
+location: Concourse D, near gate D33
+access:
+  - credential: bank_of_ireland_gold
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+  - credential: tav_passport
+    restrictions: null
+allowsArrivals: false
+operator: The Club
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Aer Lingus
+  - British Airways
+  - Condor
+  - Hawaiian Airlines
+latitude: "36.08156705755436"
+longitude: "-115.1387679556917"
+terminal: Concourse D
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 23:30
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 23:30
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 23:30
+    - day: Thursday
+      startTime: 05:00
+      endTime: 23:30
+    - day: Friday
+      startTime: 05:00
+      endTime: 23:30
+    - day: Saturday
+      startTime: 05:00
+      endTime: 23:30
+    - day: Sunday
+      startTime: 05:00
+      endTime: 23:30
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: false

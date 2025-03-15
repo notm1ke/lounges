@@ -1,4 +1,5 @@
 name: USO Center
+slug: cvg-uso-center
 location: Concourse A, near gate A11
 access:
   - credential: military

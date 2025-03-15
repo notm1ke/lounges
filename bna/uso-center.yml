@@ -1,4 +1,5 @@
 name: USO Center
+slug: bna-uso-center
 location: Concourse D, at the intersection with Concourse C, near the Tennessee Tribune
 access:
   - credential: military

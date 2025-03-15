@@ -1,0 +1,31 @@
+name: International Club Lounge
+slug: tpa-international-club-lounge-f77
+location: Airside F, near gates 77-78
+access: []
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Virgin Atlantic
+latitude: "27.977068263945707"
+longitude: "-82.53775666909324"
+terminal: Airside F
+hours:
+  days: []
+  timezone: ""
+amenities:
+  - bathroom
+  - bar
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: false

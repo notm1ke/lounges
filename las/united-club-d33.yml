@@ -1,0 +1,90 @@
+name: United Club
+slug: las-united-club-d33
+location: Concourse D, between gates D33-D35, 3rd floor
+access:
+  - credential: united_club
+    restrictions: null
+  - credential: military
+    restrictions: null
+  - credential: air_canada_maple_leaf
+    restrictions: When flying a Star Alliance member airline.
+  - credential: united_explorer
+    restrictions: When flying a Star Alliance member airline. Redeem a United Club pass.
+allowsArrivals: false
+operator: United
+alliance: Star Alliance
+allianceLevel: Star Alliance Gold
+allianceMembers:
+  - Aegean
+  - Air Canada
+  - Air China
+  - Air India
+  - Air New Zealand
+  - ANA
+  - Asiana
+  - Austrian
+  - Avianca
+  - Brussels Airlines
+  - Copa Airlines
+  - Croatia Airlines
+  - EGYPTAIR
+  - Ethiopian Airlines
+  - EVA Air
+  - LOT Polish Airlines
+  - Lufthansa
+  - Shenzhen Airlines
+  - Singapore Airlines
+  - South African Airways
+  - SWISS
+  - TAP Air Portugal
+  - Thai Airways
+  - Turkish Airlines
+  - United
+  - Virgin Australia
+latitude: "36.08115736004145"
+longitude: "-115.13922125101091"
+terminal: Concourse D
+hours:
+  days:
+    - day: Monday
+      startTime: 04:30
+      endTime: 23:00
+    - day: Tuesday
+      startTime: 04:30
+      endTime: 23:00
+    - day: Wednesday
+      startTime: 04:30
+      endTime: 23:00
+    - day: Thursday
+      startTime: 04:30
+      endTime: 23:00
+    - day: Friday
+      startTime: 04:30
+      endTime: 23:00
+    - day: Saturday
+      startTime: 04:30
+      endTime: 23:00
+    - day: Sunday
+      startTime: 04:30
+      endTime: 23:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

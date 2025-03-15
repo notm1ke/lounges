@@ -1,4 +1,5 @@
 name: Capital One Lounge
+slug: iad-capital-one-lounge
 location: Main Terminal, immediately after the TSA PreCheck security checkpoint
 access:
   - credential: capital_one_venture_x

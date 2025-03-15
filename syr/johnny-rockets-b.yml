@@ -1,0 +1,42 @@
+name: Johnny Rockets
+slug: syr-johnny-rockets-b
+location: Terminal B, North Concourse B, after security
+access:
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "43.11479207097841"
+longitude: "-76.11127495765686"
+terminal: Terminal B
+hours:
+  days:
+    - day: Monday
+      startTime: 11:00
+      endTime: 18:00
+    - day: Tuesday
+      startTime: 11:00
+      endTime: 18:00
+    - day: Wednesday
+      startTime: 11:00
+      endTime: 18:00
+    - day: Thursday
+      startTime: 11:00
+      endTime: 18:00
+    - day: Friday
+      startTime: 11:00
+      endTime: 18:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - complimentary_wifi
+  - accessible
+  - tv
+  - fim
+foodOptions: []
+drinks: []
+closed: false

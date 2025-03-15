@@ -1,4 +1,5 @@
 name: American Airlines Admirals Club
+slug: bos-admirals-club-b4
 location: Terminal B, near gate B4
 access:
   - credential: military

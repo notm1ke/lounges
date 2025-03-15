@@ -1,0 +1,77 @@
+name: American Airlines Admirals Club
+slug: tpa-admirals-club-f85
+location: Airside F, near gate 85
+access:
+  - credential: military
+    restrictions: null
+  - credential: american_admirals_club
+    restrictions: null
+  - credential: alaska_plus
+    restrictions: null
+  - credential: qantas_club
+    restrictions: When flying Qantas or JetStar.
+  - credential: american_citi_executive
+    restrictions: null
+allowsArrivals: false
+operator: American Airlines
+alliance: OneWorld
+allianceLevel: oneworld Sapphire
+allianceMembers:
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Finnair
+  - Iberia
+  - Japan Airlines
+  - Malaysia Airlines
+  - Qantas
+  - Qatar Airways
+  - Royal Air Maroc
+  - Royal Jordanian
+  - SriLankan
+latitude: "27.97667505010035"
+longitude: "-82.53772437572479"
+terminal: Airside F
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 19:30
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 19:30
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 19:30
+    - day: Thursday
+      startTime: 05:00
+      endTime: 19:30
+    - day: Friday
+      startTime: 05:00
+      endTime: 19:30
+    - day: Saturday
+      startTime: 05:00
+      endTime: 19:30
+    - day: Sunday
+      startTime: 05:00
+      endTime: 19:30
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

@@ -1,4 +1,5 @@
 name: USO Center
+slug: stl-uso-center
 location: Terminal 1, landside (before security), baggage claim, opposite carousel M6
 access:
   - credential: military

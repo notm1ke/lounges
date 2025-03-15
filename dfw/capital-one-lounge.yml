@@ -1,4 +1,5 @@
 name: Capital One Lounge
+slug: dfw-capital-one-d22
 location: Terminal D, near gate D22
 access:
   - credential: capital_one_venture_x

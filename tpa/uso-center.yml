@@ -1,4 +1,5 @@
 name: USO Center
+slug: tpa-uso-center
 location: Landside (before security), level 2, behind British Airways ticket counter
 access:
   - credential: military

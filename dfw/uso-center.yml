@@ -1,4 +1,5 @@
 name: USO Center
+slug: dfw-uso-center
 location: Terminal B, near gate B47
 access:
   - credential: military

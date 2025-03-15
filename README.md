@@ -15,6 +15,7 @@ Each lounge has a similar common schema:
 
 ```yml
 name: The Centurion Lounge
+slug: sfo-centurion-lounge-f1
 location: Terminal 3, Concourse F, near gate F1 (see directions due to ongoing
   construction)
 access:

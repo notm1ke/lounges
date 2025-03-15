@@ -1,0 +1,56 @@
+name: The Emirates Lounge
+slug: sfo-emirates-lounge-a2
+location: International Terminal A, between gates A2-A6
+access: []
+allowsArrivals: false
+operator: Emirates
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Emirates
+latitude: "37.61289711031541"
+longitude: "-122.38914294673117"
+terminal: International Terminal A
+hours:
+  days:
+    - day: Monday
+      startTime: 11:40
+      endTime: 15:40
+    - day: Tuesday
+      startTime: 11:40
+      endTime: 15:40
+    - day: Wednesday
+      startTime: 11:40
+      endTime: 15:40
+    - day: Thursday
+      startTime: 11:40
+      endTime: 15:40
+    - day: Friday
+      startTime: 11:40
+      endTime: 15:40
+    - day: Saturday
+      startTime: 11:40
+      endTime: 15:40
+    - day: Sunday
+      startTime: 11:40
+      endTime: 15:40
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - prayer_room
+foodOptions:
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

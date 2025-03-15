@@ -1,4 +1,5 @@
 name: USO Center
+slug: sfo-uso-center
 location: Terminal 1, landside (before security), above American Airlines ticket counter
 access:
   - credential: military

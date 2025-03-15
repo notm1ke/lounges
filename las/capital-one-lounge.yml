@@ -1,4 +1,5 @@
 name: Capital One Lounge
+slug: las-capital-one-lounge-d50
 location: Concourse D, near gate D50
 access:
   - credential: capital_one_venture_x

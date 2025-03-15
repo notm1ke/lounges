@@ -1,0 +1,77 @@
+name: American Airlines Admirals Club
+slug: mco-admirals-club-b55
+location: Terminal B, Airside 3, near gate 55
+access:
+  - credential: military
+    restrictions: null
+  - credential: american_admirals_club
+    restrictions: null
+  - credential: alaska_plus
+    restrictions: null
+  - credential: qantas_club
+    restrictions: When flying Qantas or JetStar.
+  - credential: american_citi_executive
+    restrictions: null
+allowsArrivals: false
+operator: American Airlines
+alliance: OneWorld
+allianceLevel: oneworld Sapphire
+allianceMembers:
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Finnair
+  - Iberia
+  - Japan Airlines
+  - Malaysia Airlines
+  - Qantas
+  - Qatar Airways
+  - Royal Air Maroc
+  - Royal Jordanian
+  - SriLankan
+latitude: "28.4311577"
+longitude: "-81.30808300000001"
+terminal: Terminal B, Airside 3
+hours:
+  days:
+    - day: Monday
+      startTime: 04:30
+      endTime: 20:15
+    - day: Tuesday
+      startTime: 04:30
+      endTime: 20:15
+    - day: Wednesday
+      startTime: 04:30
+      endTime: 20:15
+    - day: Thursday
+      startTime: 04:30
+      endTime: 20:15
+    - day: Friday
+      startTime: 04:30
+      endTime: 20:15
+    - day: Saturday
+      startTime: 04:30
+      endTime: 20:15
+    - day: Sunday
+      startTime: 04:30
+      endTime: 20:15
+  timezone: America/New_York
+amenities:
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Food For Sale
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

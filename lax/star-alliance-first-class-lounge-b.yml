@@ -1,0 +1,80 @@
+name: Star Alliance First Class lounge
+slug: lax-star-alliance-first-class-lounge-b
+location: Tom Bradley International Terminal (Terminal B), after security, level 6
+access: []
+allowsArrivals: false
+operator: Star Alliance
+alliance: Star Alliance
+allianceLevel: None
+allianceMembers:
+  - Aegean
+  - Air Canada
+  - Air China
+  - Air India
+  - Air New Zealand
+  - ANA
+  - Asiana
+  - Austrian
+  - Avianca
+  - Brussels Airlines
+  - Copa Airlines
+  - Croatia Airlines
+  - EGYPTAIR
+  - Ethiopian Airlines
+  - EVA Air
+  - LOT Polish Airlines
+  - Lufthansa
+  - Shenzhen Airlines
+  - Singapore Airlines
+  - South African Airways
+  - SWISS
+  - TAP Air Portugal
+  - Thai Airways
+  - Turkish Airlines
+  - United
+latitude: "33.94373060877426"
+longitude: "-118.40920993998526"
+terminal: Tom Bradley International Terminal (Terminal B)
+hours:
+  days:
+    - day: Monday
+      startTime: 09:00
+      endTime: 01:00
+    - day: Tuesday
+      startTime: 09:00
+      endTime: 01:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 01:00
+    - day: Thursday
+      startTime: 07:00
+      endTime: 01:00
+    - day: Friday
+      startTime: 09:00
+      endTime: 01:00
+    - day: Saturday
+      startTime: 07:00
+      endTime: 01:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 01:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+  - Complimentary Full Service Restaurant
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

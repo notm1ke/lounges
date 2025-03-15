@@ -1,0 +1,57 @@
+name: Minute Suites
+slug: bna-minute-suites-d3
+location: Concourse D, near gate D3
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Minute Suites
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "36.13030148345809"
+longitude: "-86.66872322559358"
+terminal: Concourse D
+hours:
+  days:
+    - day: Monday
+      startTime: 04:00
+      endTime: 23:00
+    - day: Tuesday
+      startTime: 04:00
+      endTime: 23:00
+    - day: Wednesday
+      startTime: 04:00
+      endTime: 23:00
+    - day: Thursday
+      startTime: 04:00
+      endTime: 23:00
+    - day: Friday
+      startTime: 04:00
+      endTime: 23:00
+    - day: Saturday
+      startTime: 04:00
+      endTime: 23:00
+    - day: Sunday
+      startTime: 04:00
+      endTime: 23:00
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - business_center
+  - complimentary_wifi
+  - showers
+  - paid_showers
+  - private_rooms
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+  - fax
+foodOptions:
+  - Food For Sale
+drinks:
+  - Premium Drinks For Sale
+closed: false

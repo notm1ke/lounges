@@ -1,0 +1,51 @@
+name: Be Relax Spa
+slug: san-be-relax-spa-t2-27
+location: Terminal 2, near gate 27
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "32.73356018254998"
+longitude: "-117.20139205455781"
+terminal: Terminal 2
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 20:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 21:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - complimentary_wifi
+  - paid_spa
+  - air_conditioning
+  - accessible
+  - bag_locker
+foodOptions: []
+drinks:
+  - Complimentary Soft Drinks
+closed: false

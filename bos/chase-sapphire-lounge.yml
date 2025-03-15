@@ -1,4 +1,5 @@
 name: Chase Sapphire Lounge
+slug: bos-chase-sapphire-lounge-b39
 location: Terminal B, between gates B39-B40 (in the Terminal B to C Connector)
 access:
   - credential: priority_pass
@@ -6,7 +7,7 @@ access:
   - credential: lounge_key
     restrictions: null
 allowsArrivals: false
-operator: Airport Dimensions
+operator: Chase 
 alliance: None
 allianceLevel: None
 allianceMembers: []

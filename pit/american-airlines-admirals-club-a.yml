@@ -1,0 +1,78 @@
+name: American Airlines Admirals Club
+slug: pit-admirals-club-a
+location: After security, between Concourses A-B, mezzanine level
+access:
+  - credential: military
+    restrictions: null
+  - credential: american_admirals_club
+    restrictions: null
+  - credential: alaska_plus
+    restrictions: null
+  - credential: qantas_club
+    restrictions: When flying Qantas or JetStar.
+  - credential: american_citi_executive
+    restrictions: null
+allowsArrivals: false
+operator: American Airlines
+alliance: OneWorld
+allianceLevel: oneworld Sapphire
+allianceMembers:
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Finnair
+  - Iberia
+  - Japan Airlines
+  - Malaysia Airlines
+  - Qantas
+  - Qatar Airways
+  - Royal Air Maroc
+  - Royal Jordanian
+  - SriLankan
+latitude: "40.49535456316423"
+longitude: "-80.24580359458925"
+terminal: ""
+hours:
+  days:
+    - day: Monday
+      startTime: 04:30
+      endTime: 21:15
+    - day: Tuesday
+      startTime: 04:30
+      endTime: 19:30
+    - day: Wednesday
+      startTime: 04:30
+      endTime: 21:15
+    - day: Thursday
+      startTime: 04:30
+      endTime: 19:30
+    - day: Friday
+      startTime: 04:30
+      endTime: 21:15
+    - day: Saturday
+      startTime: 04:30
+      endTime: 19:30
+    - day: Sunday
+      startTime: 04:30
+      endTime: 21:15
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Food For Sale
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

@@ -1,4 +1,5 @@
 name: USO Center
+slug: rdu-uso-center
 location: Terminal 2, landside (before security)
 access:
   - credential: military

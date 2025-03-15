@@ -1,0 +1,60 @@
+name: British Airways Business Lounge
+slug: jfk-british-airways-business-lounge-t7
+location: Terminal 7, immediately after security
+access: []
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - ANA
+  - Condor
+  - Icelandair
+  - LOT Polish Airlines
+  - Ukraine International Airlines
+latitude: "40.649114761414786"
+longitude: "-73.7826991081238"
+terminal: Terminal 7
+hours:
+  days:
+    - day: Monday
+      startTime: 15:00
+      endTime: 22:00
+    - day: Tuesday
+      startTime: 15:00
+      endTime: 22:00
+    - day: Wednesday
+      startTime: 15:00
+      endTime: 22:00
+    - day: Thursday
+      startTime: 15:00
+      endTime: 22:00
+    - day: Friday
+      startTime: 15:00
+      endTime: 22:00
+    - day: Saturday
+      startTime: 15:00
+      endTime: 22:00
+    - day: Sunday
+      startTime: 15:00
+      endTime: 22:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

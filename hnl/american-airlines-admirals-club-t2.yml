@@ -1,0 +1,79 @@
+name: JAL Sakura & Admirals Club
+slug: hnl-admirals-club-t2
+location: "Terminal 2, opposite central security checkpoint #3, above the Local
+  restaurant"
+access:
+  - credential: qantas_club
+    restrictions: When flying Qantas or Jetstar.
+  - credential: american_admirals_club
+    restrictions: null
+  - credential: alaska_plus
+    restrictions: null
+  - credential: american_citi_executive
+    restrictions: null
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: Japan Airlines
+alliance: OneWorld
+allianceLevel: oneworld Sapphire
+allianceMembers:
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Finnair
+  - Iberia
+  - Japan Airlines
+  - Malaysia Airlines
+  - Qantas
+  - Qatar Airways
+  - Royal Air Maroc
+  - Royal Jordanian
+  - SriLankan
+latitude: "21.33125631837434"
+longitude: "-157.91993985194551"
+terminal: Terminal 2
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 23:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 23:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 23:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 23:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 23:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 23:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 23:00
+  timezone: Pacific/Honolulu
+amenities:
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - family_room
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

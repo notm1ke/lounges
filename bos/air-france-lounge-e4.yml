@@ -1,0 +1,86 @@
+name: Air France Lounge
+slug: bos-air-france-lounge-e4
+location: Terminal E, near gate E4, take dedicated elevator or stairs
+access:
+  - credential: dragon_pass
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Air France
+alliance: SkyTeam
+allianceLevel: SkyTeam Elite Plus
+allianceMembers:
+  - Aerolineas Argentinas
+  - Aeromexico
+  - Air Europa
+  - Air France
+  - Azores Airlines
+  - China Airlines
+  - China Eastern
+  - Delta
+  - Etihad
+  - Garuda Indonesia
+  - Hainan Airlines
+  - Icelandair
+  - Kenya Airways
+  - KLM
+  - Korean Air
+  - MEA Middle East Airlines
+  - Qatar Airways
+  - Royal Air Maroc
+  - SAS
+  - Saudia
+  - TAROM
+  - Vietnam Airlines
+  - Virgin Atlantic
+  - Xiamen Airlines
+latitude: "42.36973329122487"
+longitude: "-71.01798534393312"
+terminal: Terminal E
+hours:
+  days:
+    - day: Monday
+      startTime: 09:30
+      endTime: 22:30
+    - day: Tuesday
+      startTime: 09:00
+      endTime: 22:30
+    - day: Wednesday
+      startTime: 09:30
+      endTime: 22:30
+    - day: Thursday
+      startTime: 09:30
+      endTime: 22:30
+    - day: Friday
+      startTime: 09:30
+      endTime: 22:30
+    - day: Saturday
+      startTime: 09:30
+      endTime: 22:30
+    - day: Sunday
+      startTime: 09:30
+      endTime: 22:30
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - fax
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Soups
+  - Complimentary Finger Food
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: true

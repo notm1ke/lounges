@@ -1,0 +1,50 @@
+name: Capers Market
+slug: pdx-capers-market-d
+location: Concourse D, immediately after security
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "45.590143"
+longitude: "-122.59301"
+terminal: Concourse D
+hours:
+  days:
+    - day: Monday
+      startTime: 04:00
+      endTime: 22:30
+    - day: Tuesday
+      startTime: 04:00
+      endTime: 22:30
+    - day: Wednesday
+      startTime: 04:00
+      endTime: 22:30
+    - day: Thursday
+      startTime: 04:00
+      endTime: 22:30
+    - day: Friday
+      startTime: 04:00
+      endTime: 22:30
+    - day: Saturday
+      startTime: 04:00
+      endTime: 22:30
+    - day: Sunday
+      startTime: 04:00
+      endTime: 22:30
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions: []
+drinks: []
+closed: true

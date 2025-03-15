@@ -1,0 +1,52 @@
+name: Be Relax Spa
+slug: dtw-be-relax-a46
+location: McNamara Terminal, Concourse A, near gate A46 (near water fall,
+  between Johnston & Murphy and Vino Volo)
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "42.209195646505385"
+longitude: "-83.35725456476213"
+terminal: McNamara Terminal
+hours:
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 21:00
+  timezone: America/Detroit
+amenities:
+  - bathroom
+  - complimentary_wifi
+  - paid_spa
+  - air_conditioning
+  - accessible
+  - bag_locker
+foodOptions: []
+drinks:
+  - Complimentary Soft Drinks
+closed: false

@@ -1,0 +1,61 @@
+name: Wingtips Lounge
+slug: stl-wingtips-lounge-e29
+location: Terminal 2, Concourse E, opposite gate E29
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Wingtips
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Austrian
+  - Lufthansa
+  - SWISS
+latitude: "38.737524926630016"
+longitude: "-90.35700415756378"
+terminal: Terminal 2
+hours:
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 13:00,15:30
+    - day: Thursday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Friday
+      startTime: 07:00
+      endTime: 13:00,15:30
+    - day: Sunday
+      startTime: 07:00
+      endTime: 13:00,15:30
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - conference_rooms
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+  - fax
+  - phone
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

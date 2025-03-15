@@ -1,4 +1,5 @@
 name: USO Center
+slug: sat-uso-center
 location: Terminal B, landside (before security), baggage claim
 access:
   - credential: military

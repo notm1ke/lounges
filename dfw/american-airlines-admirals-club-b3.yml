@@ -1,0 +1,80 @@
+name: American Airlines Admirals Club
+slug: dfw-admirals-club-b3
+location: Terminal B, between gates B3-B4
+access:
+  - credential: military
+    restrictions: null
+  - credential: american_admirals_club
+    restrictions: null
+  - credential: alaska_plus
+    restrictions: null
+  - credential: qantas_club
+    restrictions: When flying Qantas or JetStar.
+  - credential: american_citi_executive
+    restrictions: null
+allowsArrivals: false
+operator: American Airlines
+alliance: OneWorld
+allianceLevel: oneworld Sapphire
+allianceMembers:
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Finnair
+  - Iberia
+  - Japan Airlines
+  - Malaysia Airlines
+  - Qantas
+  - Qatar Airways
+  - Royal Air Maroc
+  - Royal Jordanian
+  - SriLankan
+latitude: "32.902024283864485"
+longitude: "-97.04202711172258"
+terminal: Terminal B
+hours:
+  days:
+    - day: Monday
+      startTime: 05:30
+      endTime: 22:15
+    - day: Tuesday
+      startTime: 05:30
+      endTime: 22:15
+    - day: Wednesday
+      startTime: 05:30
+      endTime: 22:15
+    - day: Thursday
+      startTime: 05:30
+      endTime: 22:15
+    - day: Friday
+      startTime: 05:30
+      endTime: 22:15
+    - day: Saturday
+      startTime: 05:30
+      endTime: 22:15
+    - day: Sunday
+      startTime: 05:30
+      endTime: 22:15
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - conference_rooms
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Food For Sale
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

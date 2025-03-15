@@ -1,4 +1,5 @@
 name: USO Center
+slug: phl-uso-center
 location: Concourse E, near gate E2
 access:
   - credential: military

@@ -1,4 +1,5 @@
 name: USO Center
+slug: san-uso-center
 location: Landside (before security), 1st floor
 access:
   - credential: military

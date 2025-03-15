@@ -1,0 +1,54 @@
+name: Capital One Landing
+slug: dca-capital-one-landing-d
+location: Terminal 2, Concourse D, near Concourse D entrance
+access:
+  - credential: capital_one_venture_x
+    restrictions: null
+allowsArrivals: false
+operator: Capital One
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "38.85541652823015"
+longitude: "-77.04380934475623"
+terminal: Terminal 2, Concourse D
+hours:
+  days:
+    - day: Monday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 06:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 06:00
+      endTime: 21:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - complimentary_wifi
+  - barista_coffee
+  - air_conditioning
+  - accessible
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+  - Complimentary Full Service Restaurant
+  - Food For Sale
+drinks:
+  - Complimentary Full Bar
+closed: false

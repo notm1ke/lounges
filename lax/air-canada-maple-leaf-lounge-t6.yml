@@ -1,4 +1,5 @@
 name: Air Canada Maple Leaf Lounge
+slug: lax-air-canada-maple-leaf-lounge-t6
 location: Terminal 6, between gates 65A-65B, mezzanine level
 access:
   - credential: chase_sapphire_reserve

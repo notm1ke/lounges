@@ -1,4 +1,5 @@
 name: Barrio Brewery Co.
+slug: tus-barrio-brewery-co
 location: Landside (before security), 2nd floor, opposite Arroyo Trading Post
 access:
   - credential: priority_pass

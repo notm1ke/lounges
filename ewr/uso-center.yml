@@ -1,4 +1,5 @@
 name: USO Center
+slug: ewr-uso-center
 location: Terminal B, landside (before security), level 2, door 9
 access:
   - credential: military

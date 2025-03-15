@@ -1,4 +1,5 @@
 name: USO Center
+slug: phx-uso-center
 location: Terminal 4, landside (before security), level 2, near B and C elevators
 access:
   - credential: military

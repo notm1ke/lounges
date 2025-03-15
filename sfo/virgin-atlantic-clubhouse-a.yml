@@ -1,0 +1,80 @@
+name: Virgin Atlantic Clubhouse
+slug: sfo-virgin-atlantic-clubhouse-a
+location: International Terminal A, left immediately after security, 5th floor
+access:
+  - credential: el_al_king_david_club
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Virgin Atlantic
+alliance: SkyTeam
+allianceLevel: SkyTeam Elite Plus
+allianceMembers:
+  - Aerolineas Argentinas
+  - Aeromexico
+  - Air Europa
+  - China Airlines
+  - China Eastern
+  - China Southern
+  - Delta
+  - El Al
+  - Fiji Airways
+  - Garuda Indonesia
+  - Japan Airlines
+  - Kenya Airways
+  - KLM
+  - Korean Air
+  - MEA Middle East Airlines
+  - SAS
+  - Saudia
+  - TAROM
+  - Vietnam Airlines
+  - Xiamen Airlines
+latitude: "37.61446730056456"
+longitude: "-122.38832949800871"
+terminal: International Terminal A
+hours:
+  days:
+    - day: Monday
+      startTime: 08:30
+      endTime: 22:30
+    - day: Tuesday
+      startTime: 08:30
+      endTime: 22:30
+    - day: Wednesday
+      startTime: 08:30
+      endTime: 22:30
+    - day: Thursday
+      startTime: 08:30
+      endTime: 22:30
+    - day: Friday
+      startTime: 08:30
+      endTime: 22:30
+    - day: Saturday
+      startTime: 08:30
+      endTime: 22:30
+    - day: Sunday
+      startTime: 08:30
+      endTime: 22:30
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - barista_coffee
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+  - bag_locker
+foodOptions:
+  - Complimentary Full Service Restaurant
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

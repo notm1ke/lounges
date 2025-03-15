@@ -1,0 +1,49 @@
+name: Be Relax Spa
+slug: lax-be-relax-spa-b154
+location: Tom Bradley International Terminal (Terminal B), near gate 154
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "33.94068529388952"
+longitude: "-118.41018321210909"
+terminal: Tom Bradley International Terminal (Terminal B)
+hours:
+  days:
+    - day: Monday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 09:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 09:00
+      endTime: 21:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - complimentary_wifi
+  - paid_spa
+  - air_conditioning
+  - accessible
+foodOptions: []
+drinks: []
+closed: false

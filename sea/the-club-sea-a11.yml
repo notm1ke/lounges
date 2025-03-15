@@ -1,0 +1,63 @@
+name: The Club at SEA
+slug: sea-the-club-sea-a11
+location: Main Terminal, Concourse A, opposite gate A11
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+  - credential: tav_passport
+    restrictions: null
+allowsArrivals: false
+operator: The Club
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Condor
+  - EVA Air
+latitude: "47.439056864966894"
+longitude: "-122.29746208049965"
+terminal: Main Terminal, Concourse A
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 00:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 00:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 00:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 00:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 00:00
+    - day: Saturday
+      startTime: 05:00
+      endTime: 00:00
+    - day: Sunday
+      startTime: 05:00
+      endTime: 00:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - bag_locker
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Soups
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: false

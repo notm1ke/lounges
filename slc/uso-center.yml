@@ -1,4 +1,5 @@
 name: USO Center
+slug: slc-uso-center
 location: Concourse A, near gate A25, mezzanine level
 access:
   - credential: military

@@ -1,0 +1,58 @@
+name: Chase Sapphire Lounge
+slug: phx-chase-sapphire-lounge-d11
+location: Terminal 4, South 1 Concourse, near gate D11, opposite The Crystals @
+  Sky Harbor
+access:
+  - credential: priority_pass
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+allowsArrivals: false
+operator: Chase 
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "33.43446763461207"
+longitude: "-112.0013935633682"
+terminal: Terminal 4
+hours:
+  days:
+    - day: Monday
+      startTime: 04:30
+      endTime: 22:30
+    - day: Tuesday
+      startTime: 04:30
+      endTime: 22:30
+    - day: Wednesday
+      startTime: 04:30
+      endTime: 22:30
+    - day: Thursday
+      startTime: 04:30
+      endTime: 22:30
+    - day: Friday
+      startTime: 04:30
+      endTime: 22:30
+    - day: Saturday
+      startTime: 04:30
+      endTime: 22:30
+    - day: Sunday
+      startTime: 04:30
+      endTime: 22:30
+  timezone: America/Phoenix
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

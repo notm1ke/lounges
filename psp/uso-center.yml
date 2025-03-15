@@ -1,4 +1,5 @@
 name: USO Center
+slug: psp-uso-center
 location: Landside (before security)
 access:
   - credential: military

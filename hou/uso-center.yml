@@ -1,4 +1,5 @@
 name: USO Center
+slug: hou-uso-center
 location: Near gate 44, lower level
 access:
   - credential: military

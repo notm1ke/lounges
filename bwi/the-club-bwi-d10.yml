@@ -1,0 +1,57 @@
+name: The Club at BWI
+slug: bwi-the-club-bwi-d10
+location: Concourse D, near gate D10
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: The Club
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Condor
+latitude: "39.17943557981261"
+longitude: "-76.66518696022717"
+terminal: Concourse D
+hours:
+  days:
+    - day: Monday
+      startTime: 04:15
+      endTime: 22:30
+    - day: Tuesday
+      startTime: 04:15
+      endTime: 22:30
+    - day: Wednesday
+      startTime: 04:15
+      endTime: 22:30
+    - day: Thursday
+      startTime: 04:15
+      endTime: 22:30
+    - day: Friday
+      startTime: 04:15
+      endTime: 22:30
+    - day: Saturday
+      startTime: 04:15
+      endTime: 22:30
+    - day: Sunday
+      startTime: 04:15
+      endTime: 22:30
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+closed: false

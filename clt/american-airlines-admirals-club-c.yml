@@ -1,4 +1,5 @@
 name: American Airlines Admirals Club
+slug: clt-admirals-club-c
 location: Concourse C, at the intersection with the Concourse D, after security
 access:
   - credential: military

@@ -1,0 +1,97 @@
+name: Delta Sky Club
+slug: lax-delta-sky-club-t3
+location: Terminal 3, between Terminals 2-3
+access:
+  - credential: delta_sky_club
+    restrictions: null
+  - credential: amex_delta_reserve
+    restrictions: When flying Delta.
+  - credential: amex_platinum
+    restrictions: When flying Delta. 10 complimentary visits a year.
+  - credential: amex_platinum_business
+    restrictions: When flying Delta. 10 complimentary visits a year.
+  - credential: amex_platinum_intl
+    restrictions: When flying Delta.
+  - credential: amex_centurion
+    restrictions: When flying Delta.
+  - credential: delta_sky_club
+    restrictions: When flying Delta. Max. 3 visits a year.
+  - credential: delta_sky_club
+    restrictions: Max. 6 visits a year.
+  - credential: amex_platinum_intl
+    restrictions: null
+allowsArrivals: false
+operator: Delta
+alliance: SkyTeam
+allianceLevel: SkyTeam Elite Plus
+allianceMembers:
+  - Aerolineas Argentinas
+  - Aeromexico
+  - Air Europa
+  - Air France
+  - China Airlines
+  - China Eastern
+  - Delta
+  - Garuda Indonesia
+  - Kenya Airways
+  - KLM
+  - Korean Air
+  - MEA Middle East Airlines
+  - SAS
+  - Saudia
+  - TAROM
+  - Vietnam Airlines
+  - Virgin Atlantic
+  - Xiamen Airlines
+latitude: "33.945460446848074"
+longitude: "-118.40550005435945"
+terminal: Terminal 3
+hours:
+  days:
+    - day: Monday
+      startTime: 04:15
+      endTime: 00:30
+    - day: Tuesday
+      startTime: 04:15
+      endTime: 00:30
+    - day: Wednesday
+      startTime: 04:15
+      endTime: 00:30
+    - day: Thursday
+      startTime: 04:15
+      endTime: 00:30
+    - day: Friday
+      startTime: 04:15
+      endTime: 00:30
+    - day: Saturday
+      startTime: 04:15
+      endTime: 00:30
+    - day: Sunday
+      startTime: 04:15
+      endTime: 00:30
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - conference_rooms
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - phone
+  - outdoor_deck
+  - fast_track
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

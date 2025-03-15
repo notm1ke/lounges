@@ -1,0 +1,81 @@
+name: Alaska Lounge
+slug: jfk-alaska-lounge-t7
+location: Terminal 7, after security, mezzanine level (go up two sets of
+  escalators after security)
+access:
+  - credential: alaska_plus
+    restrictions: null
+  - credential: american_admirals_club
+    restrictions: null
+  - credential: american_citi_executive
+    restrictions: null
+  - credential: qantas_club
+    restrictions: null
+  - credential: military
+    restrictions: null
+allowsArrivals: false
+operator: Alaska Airlines
+alliance: OneWorld
+allianceLevel: oneworld Sapphire
+allianceMembers:
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Finnair
+  - Iberia
+  - Japan Airlines
+  - Malaysia Airlines
+  - Qantas
+  - Qatar Airways
+  - Royal Air Maroc
+  - Royal Jordanian
+  - SriLankan
+latitude: "40.6495623"
+longitude: "-73.78271849999999"
+terminal: Terminal 7
+hours:
+  days:
+    - day: Monday
+      startTime: 07:30
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 07:30
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 07:30
+      endTime: 20:00
+    - day: Thursday
+      startTime: 07:30
+      endTime: 20:00
+    - day: Friday
+      startTime: 07:30
+      endTime: 20:00
+    - day: Saturday
+      startTime: 07:30
+      endTime: 20:00
+    - day: Sunday
+      startTime: 07:30
+      endTime: 20:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - barista_coffee
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Soups
+  - Complimentary Finger Food
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

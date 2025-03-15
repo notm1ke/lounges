@@ -1,0 +1,61 @@
+name: Aspire Lounge
+slug: ont-aspire-lounge-209
+location: Terminal 2, between gates 209-210
+access:
+  - credential: dragon_pass
+    restrictions: null
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Swissport
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - China Airlines
+latitude: "34.060237032272696"
+longitude: "-117.59653240442277"
+terminal: Terminal 2
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 00:00
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 00:00
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 00:00
+    - day: Thursday
+      startTime: 05:00
+      endTime: 00:00
+    - day: Friday
+      startTime: 05:00
+      endTime: 00:00
+    - day: Saturday
+      startTime: 05:00
+      endTime: 00:00
+    - day: Sunday
+      startTime: 05:00
+      endTime: 00:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

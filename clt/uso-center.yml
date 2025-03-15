@@ -1,4 +1,5 @@
 name: USO Center
+slug: clt-uso-center
 location: Atrium, 2nd floor
 access:
   - credential: military

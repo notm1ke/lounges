@@ -1,0 +1,58 @@
+name: Korean Air First Class Lounge
+slug: lax-korean-air-first-class-b
+location: Tom Bradley International Terminal (Terminal B), after security, level
+  5 (above Duty Free)
+access: []
+allowsArrivals: false
+operator: Korean Air
+alliance: SkyTeam
+allianceLevel: None
+allianceMembers:
+  - Korean Air
+latitude: "33.942928638535434"
+longitude: "-118.40939361244204"
+terminal: Tom Bradley International Terminal (Terminal B)
+hours:
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 22:40
+    - day: Tuesday
+      startTime: 07:00
+      endTime: 22:40
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 22:40
+    - day: Thursday
+      startTime: 07:00
+      endTime: 22:40
+    - day: Friday
+      startTime: 07:00
+      endTime: 22:40
+    - day: Saturday
+      startTime: 07:00
+      endTime: 22:40
+    - day: Sunday
+      startTime: 07:00
+      endTime: 22:40
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+  - Complimentary Finger Food
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Complimentary Full Bar
+closed: true

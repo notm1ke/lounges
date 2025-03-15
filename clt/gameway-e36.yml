@@ -1,0 +1,49 @@
+name: Gameway
+slug: clt-gameway-e36
+location: Concourse E, opposite gate E36
+access:
+  - credential: lounge_key
+    restrictions: null
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "35.22530603349178"
+longitude: "-80.94071567058565"
+terminal: Concourse E
+hours:
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Thursday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Friday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Saturday
+      startTime: 07:00
+      endTime: 20:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 20:00
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - tv
+foodOptions: []
+drinks: []
+closed: false

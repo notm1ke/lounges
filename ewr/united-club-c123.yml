@@ -1,4 +1,5 @@
 name: United Club
+slug: ewr-united-club-c123
 location: Terminal C, near gate C123
 access:
   - credential: united_club

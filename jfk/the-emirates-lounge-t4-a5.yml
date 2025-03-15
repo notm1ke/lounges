@@ -1,0 +1,56 @@
+name: The Emirates Lounge
+slug: jfk-the-emirates-lounge-t4-a5
+location: Terminal 4, above gate A5, next to Air India Lounge
+access: []
+allowsArrivals: false
+operator: Emirates
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Emirates
+latitude: "40.64317025484724"
+longitude: "-73.77911109151"
+terminal: Terminal 4
+hours:
+  days:
+    - day: Monday
+      startTime: 06:40
+      endTime: 10:40,18:20
+    - day: Tuesday
+      startTime: 06:40
+      endTime: 10:40,18:20
+    - day: Wednesday
+      startTime: 06:40
+      endTime: 10:40,18:20
+    - day: Thursday
+      startTime: 06:40
+      endTime: 10:40,18:20
+    - day: Friday
+      startTime: 06:40
+      endTime: 10:40,18:20
+    - day: Saturday
+      startTime: 06:40
+      endTime: 10:40,18:20
+    - day: Sunday
+      startTime: 06:40
+      endTime: 10:40,18:20
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+  - prayer_room
+foodOptions:
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

@@ -1,0 +1,44 @@
+name: Jabbrrbox
+slug: pit-jabbrrbox-c52
+location: Concourse C, near gate C52
+access:
+  - credential: priority_pass
+    restrictions: null
+allowsArrivals: false
+operator: Jabbrrbox
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "40.49469369420535"
+longitude: "-80.24738111931175"
+terminal: Concourse C
+hours:
+  days:
+    - day: Monday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Tuesday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Wednesday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Thursday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Friday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Saturday
+      startTime: 00:00
+      endTime: 00:00
+    - day: Sunday
+      startTime: 00:00
+      endTime: 00:00
+  timezone: America/New_York
+amenities:
+  - complimentary_wifi
+  - air_conditioning
+foodOptions: []
+drinks: []
+closed: false

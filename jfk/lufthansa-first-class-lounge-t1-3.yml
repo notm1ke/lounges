@@ -1,0 +1,58 @@
+name: Lufthansa First Class Dining
+slug: jfk-lufthansa-first-class-t1-3
+location: Terminal 1, near gate 3
+access: []
+allowsArrivals: false
+operator: Lufthansa
+alliance: Star Alliance
+allianceLevel: None
+allianceMembers:
+  - Austrian
+  - Lufthansa
+  - SWISS
+latitude: "40.64316814665919"
+longitude: "-73.79138946533205"
+terminal: Terminal 1
+hours:
+  days:
+    - day: Monday
+      startTime: 12:00
+      endTime: 21:45
+    - day: Tuesday
+      startTime: 12:00
+      endTime: 21:45
+    - day: Wednesday
+      startTime: 12:00
+      endTime: 21:45
+    - day: Thursday
+      startTime: 12:00
+      endTime: 21:45
+    - day: Friday
+      startTime: 12:00
+      endTime: 21:45
+    - day: Saturday
+      startTime: 12:00
+      endTime: 21:45
+    - day: Sunday
+      startTime: 12:00
+      endTime: 21:45
+  timezone: America/New_York
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+  - Complimentary Full Service Restaurant
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false

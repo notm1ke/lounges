@@ -1,0 +1,45 @@
+name: Freshen Up!
+slug: sfo-freshen-up-g1
+location: International Terminal G, landside (before security), near the G1-G14
+  security checkpoint
+access: []
+allowsArrivals: false
+operator: Independent
+alliance: None
+allianceLevel: None
+allianceMembers: []
+latitude: "37.6170138850832"
+longitude: "-122.38899482226793"
+terminal: International Terminal G
+hours:
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 23:00
+    - day: Tuesday
+      startTime: 07:00
+      endTime: 23:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 23:00
+    - day: Thursday
+      startTime: 07:00
+      endTime: 23:00
+    - day: Friday
+      startTime: 07:00
+      endTime: 23:00
+    - day: Saturday
+      startTime: 07:00
+      endTime: 23:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 23:00
+  timezone: America/Los_Angeles
+amenities:
+  - bathroom
+  - business_center
+  - showers
+  - air_conditioning
+foodOptions: []
+drinks: []
+closed: false

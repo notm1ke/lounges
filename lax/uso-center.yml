@@ -1,4 +1,5 @@
 name: USO Center
+slug: lax-uso-center
 location: Landside (before security), Theme Building
 access:
   - credential: military

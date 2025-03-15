@@ -1,0 +1,48 @@
+name: Hawaiian Airlines Premier Club
+slug: jfk-hawaiian-premier-club-t2
+location: Terminal 2, near gate 10
+access:
+  - credential: hawaiian_premier_club
+    restrictions: null
+allowsArrivals: false
+operator: Hawaiian Airlines
+alliance: None
+allianceLevel: None
+allianceMembers:
+  - Hawaiian Airlines
+latitude: "19.735360422182737"
+longitude: "-156.0415488203203"
+terminal: Terminal 2
+hours:
+  days:
+    - day: Monday
+      startTime: 05:30
+      endTime: 20:00
+    - day: Tuesday
+      startTime: 05:30
+      endTime: 20:00
+    - day: Wednesday
+      startTime: 05:30
+      endTime: 20:00
+    - day: Thursday
+      startTime: 05:30
+      endTime: 20:00
+    - day: Friday
+      startTime: 05:30
+      endTime: 20:00
+    - day: Saturday
+      startTime: 05:30
+      endTime: 20:00
+    - day: Sunday
+      startTime: 05:30
+      endTime: 20:00
+  timezone: Pacific/Honolulu
+amenities:
+  - bar
+  - complimentary_wifi
+  - air_conditioning
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+closed: false

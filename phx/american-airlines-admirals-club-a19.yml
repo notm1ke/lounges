@@ -1,0 +1,77 @@
+name: American Airlines Admirals Club
+slug: phx-admirals-club-a19
+location: Terminal 4, Concourse A, between gates A19-A21
+access:
+  - credential: military
+    restrictions: null
+  - credential: american_admirals_club
+    restrictions: null
+  - credential: alaska_plus
+    restrictions: null
+  - credential: qantas_club
+    restrictions: When flying Qantas or JetStar.
+  - credential: american_citi_executive
+    restrictions: null
+allowsArrivals: false
+operator: American Airlines
+alliance: OneWorld
+allianceLevel: oneworld Sapphire
+allianceMembers:
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Finnair
+  - Iberia
+  - Japan Airlines
+  - Malaysia Airlines
+  - Qantas
+  - Qatar Airways
+  - Royal Air Maroc
+  - Royal Jordanian
+  - SriLankan
+latitude: "33.43692082916139"
+longitude: "-112.00174212455751"
+terminal: Terminal 4, Concourse A
+hours:
+  days:
+    - day: Monday
+      startTime: 03:30
+      endTime: 21:30
+    - day: Tuesday
+      startTime: 03:30
+      endTime: 21:30
+    - day: Wednesday
+      startTime: 03:30
+      endTime: 21:30
+    - day: Thursday
+      startTime: 03:30
+      endTime: 21:30
+    - day: Friday
+      startTime: 03:30
+      endTime: 21:30
+    - day: Saturday
+      startTime: 03:30
+      endTime: 21:30
+    - day: Sunday
+      startTime: 03:30
+      endTime: 21:30
+  timezone: America/Phoenix
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Snacks
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary House Wine And Beer
+  - Complimentary Liquor
+  - Premium Drinks For Sale
+closed: false

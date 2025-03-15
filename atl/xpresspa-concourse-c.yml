@@ -1,4 +1,5 @@
 name: XpresSpa
+slug: atl-xpresspa-c
 location: Concourse C, opposite gate C37
 access:
   - credential: lounge_key

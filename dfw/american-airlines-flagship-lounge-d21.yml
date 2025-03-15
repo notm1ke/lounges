@@ -1,0 +1,69 @@
+name: American Airlines Flagship Lounge
+slug: dfw-american-flagship-d21
+location: Terminal D, between gates D21-D22
+access: []
+allowsArrivals: false
+operator: American Airlines
+alliance: OneWorld
+allianceLevel: oneworld Sapphire
+allianceMembers:
+  - Alaska Airlines
+  - American Airlines
+  - British Airways
+  - Cathay Pacific
+  - Fiji Airways
+  - Finnair
+  - Iberia
+  - Japan Airlines
+  - Malaysia Airlines
+  - Qantas
+  - Qatar Airways
+  - Royal Air Maroc
+  - Royal Jordanian
+  - SriLankan
+latitude: "32.8951646"
+longitude: "-97.03980430000001"
+terminal: Terminal D
+hours:
+  days:
+    - day: Monday
+      startTime: 05:00
+      endTime: 22:15
+    - day: Tuesday
+      startTime: 05:00
+      endTime: 22:15
+    - day: Wednesday
+      startTime: 05:00
+      endTime: 22:15
+    - day: Thursday
+      startTime: 05:00
+      endTime: 22:15
+    - day: Friday
+      startTime: 05:00
+      endTime: 22:15
+    - day: Saturday
+      startTime: 05:00
+      endTime: 22:15
+    - day: Sunday
+      startTime: 05:00
+      endTime: 22:15
+  timezone: America/Chicago
+amenities:
+  - bathroom
+  - bar
+  - business_center
+  - complimentary_wifi
+  - showers
+  - air_conditioning
+  - accessible
+  - press
+  - tv
+  - fim
+foodOptions:
+  - Complimentary Cold Buffet
+  - Complimentary Hot Buffet
+  - Complimentary Full Service Restaurant
+drinks:
+  - Complimentary Soft Drinks
+  - Complimentary Full Bar
+closed: false
