@@ -1,5 +1,5 @@
-name: The Etihad Lounge
-slug: iad-etihad-airways-lounge-a14
+name: Chase Sapphire Lounge
+slug: iad-chase-sapphire-lounge-a14
 location: Concourse A, near gate A14
 access:
   - credential: lounge_key
@@ -7,7 +7,7 @@ access:
   - credential: priority_pass
     restrictions: null
 allowsArrivals: false
-operator: The Club
+operator: Chase
 alliance: None
 allianceLevel: None
 allianceMembers:
