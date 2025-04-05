@@ -5,7 +5,7 @@ access:
   - credential: military
     restrictions: null
 allowsArrivals: false
-operator: Independent
+operator: USO 
 alliance: None
 allianceLevel: None
 allianceMembers: []

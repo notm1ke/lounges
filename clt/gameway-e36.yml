@@ -7,7 +7,7 @@ access:
   - credential: priority_pass
     restrictions: null
 allowsArrivals: false
-operator: Independent
+operator: Gameway
 alliance: None
 allianceLevel: None
 allianceMembers: []

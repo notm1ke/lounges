@@ -5,7 +5,7 @@ access:
   - credential: priority_pass
     restrictions: null
 allowsArrivals: false
-operator: Independent
+operator: Jabbrrbox 
 alliance: None
 allianceLevel: None
 allianceMembers: []
