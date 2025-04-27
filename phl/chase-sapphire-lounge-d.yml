@@ -7,7 +7,7 @@ access:
   - credential: lounge_key
     restrictions: null
 allowsArrivals: false
-operator: The Club
+operator: Chase 
 alliance: None
 allianceLevel: None
 allianceMembers: []
