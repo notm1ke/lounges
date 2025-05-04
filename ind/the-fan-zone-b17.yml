@@ -13,8 +13,29 @@ latitude: "39.7179007162"
 longitude: "-86.2968759165"
 terminal: Concourse B
 hours:
-  days: []
-  timezone: ""
+  days:
+    - day: Monday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Tuesday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Wednesday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Thursday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Friday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Saturday
+      startTime: 07:00
+      endTime: 21:00
+    - day: Sunday
+      startTime: 07:00
+      endTime: 21:00
+  timezone: America/New_York
 amenities:
   - bathroom
   - bar

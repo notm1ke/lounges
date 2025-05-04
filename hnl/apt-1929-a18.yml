@@ -12,8 +12,29 @@ latitude: "21.33349559731711"
 longitude: "-157.9236442415897"
 terminal: Terminal 1
 hours:
-  days: []
-  timezone: ""
+  days:
+    - day: Monday
+      startTime: 12:00
+      endTime: 12:00
+    - day: Tuesday
+      startTime: 12:00
+      endTime: 12:00
+    - day: Wednesday
+      startTime: 12:00
+      endTime: 12:00
+    - day: Thursday
+      startTime: 12:00
+      endTime: 12:00
+    - day: Friday
+      startTime: 12:00
+      endTime: 12:00
+    - day: Saturday
+      startTime: 12:00
+      endTime: 12:00
+    - day: Sunday
+      startTime: 12:00
+      endTime: 12:00
+  timezone: Pacific/Honolulu 
 amenities:
   - bathroom
   - bar
@@ -34,4 +55,4 @@ foodOptions:
 drinks:
   - Complimentary Soft Drinks
   - Complimentary Full Bar
-closed: false
+closed: true

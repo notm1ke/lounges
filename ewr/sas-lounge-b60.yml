@@ -33,8 +33,29 @@ latitude: "40.691651977081236"
 longitude: "-74.17461315771101"
 terminal: Terminal B, Satellite B3
 hours:
-  days: []
-  timezone: ""
+  days:
+    - day: Monday
+      startTime: 14:00
+      endTime: 19:00
+    - day: Tuesday
+      startTime: 14:00
+      endTime: 19:00
+    - day: Wednesday
+      startTime: 14:00
+      endTime: 19:00
+    - day: Thursday
+      startTime: 14:00
+      endTime: 19:00
+    - day: Friday
+      startTime: 14:00
+      endTime: 19:00
+    - day: Saturday
+      startTime: 14:00
+      endTime: 19:00
+    - day: Sunday
+      startTime: 14:00
+      endTime: 19:00
+  timezone: America/New_York
 amenities:
   - bathroom
   - bar

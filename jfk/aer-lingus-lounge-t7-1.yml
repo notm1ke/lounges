@@ -14,8 +14,29 @@ latitude: "40.649232792894885"
 longitude: "-73.78379623565903"
 terminal: Terminal 7
 hours:
-  days: []
-  timezone: ""
+  days:
+    - day: Monday
+      startTime: 12:45
+      endTime: 23:59
+    - day: Tuesday
+      startTime: 12:45
+      endTime: 23:59
+    - day: Wednesday
+      startTime: 12:45
+      endTime: 23:59
+    - day: Thursday
+      startTime: 12:45
+      endTime: 23:59
+    - day: Friday
+      startTime: 12:45
+      endTime: 23:59
+    - day: Saturday
+      startTime: 12:45
+      endTime: 23:59
+    - day: Sunday
+      startTime: 12:45
+      endTime: 23:59
+  timezone: America/New_York
 amenities:
   - bathroom
   - bar

@@ -34,8 +34,29 @@ latitude: "41.97393835852338"
 longitude: "-87.88907164986267"
 terminal: Terminal 5
 hours:
-  days: []
-  timezone: ""
+  days:
+    - day: Monday
+      startTime: 12:30
+      endTime: 20:10
+    - day: Tuesday
+      startTime: 12:30
+      endTime: 20:10
+    - day: Wednesday
+      startTime: 12:30
+      endTime: 20:10
+    - day: Thursday
+      startTime: 12:30
+      endTime: 20:10
+    - day: Friday
+      startTime: 12:30
+      endTime: 20:10
+    - day: Saturday
+      startTime: 12:30
+      endTime: 20:10
+    - day: Sunday
+      startTime: 12:30
+      endTime: 20:10
+  timezone: America/Chicago
 amenities:
   - bar
   - business_center

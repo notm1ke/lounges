@@ -26,8 +26,29 @@ latitude: "21.331184540069184"
 longitude: "-157.92312383651736"
 terminal: Terminal 2
 hours:
-  days: []
-  timezone: ""
+  days:
+    - day: Monday
+      startTime: 08:15
+      endTime: 21:30
+    - day: Tuesday
+      startTime: 08:15
+      endTime: 21:30
+    - day: Wednesday
+      startTime: 08:15
+      endTime: 21:30
+    - day: Thursday
+      startTime: 08:15
+      endTime: 21:30
+    - day: Friday
+      startTime: 08:15
+      endTime: 21:30
+    - day: Saturday
+      startTime: 08:15
+      endTime: 21:30
+    - day: Sunday
+      startTime: 08:15
+      endTime: 21:30
+  timezone: Pacific/Honolulu
 amenities:
   - bathroom
   - bar

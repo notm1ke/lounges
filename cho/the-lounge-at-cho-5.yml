@@ -11,8 +11,29 @@ latitude: "38.1394720722481"
 longitude: "-78.44955500059869"
 terminal: ""
 hours:
-  days: []
-  timezone: ""
+  days:
+    - day: Monday
+      startTime: 09:00
+      endTime: 17:00
+    - day: Tuesday
+      startTime: 09:00
+      endTime: 17:00
+    - day: Wednesday
+      startTime: 09:00
+      endTime: 17:00
+    - day: Thursday
+      startTime: 09:00
+      endTime: 17:00
+    - day: Friday
+      startTime: 09:00
+      endTime: 17:00
+    - day: Saturday
+      startTime: 09:00
+      endTime: 17:00
+    - day: Sunday
+      startTime: 09:00
+      endTime: 17:00
+  timezone: America/New_York
 amenities:
   - complimentary_wifi
   - air_conditioning
