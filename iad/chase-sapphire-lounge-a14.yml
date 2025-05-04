@@ -2,10 +2,12 @@ name: Chase Sapphire Lounge
 slug: iad-chase-sapphire-lounge-a14
 location: Concourse A, near gate A14
 access:
+  - credential: chase_sapphire_reserve
+    restrictions: null
   - credential: lounge_key
     restrictions: null
   - credential: priority_pass
-    restrictions: null
+    restrictions: One visit per year
 allowsArrivals: false
 operator: Chase
 alliance: None

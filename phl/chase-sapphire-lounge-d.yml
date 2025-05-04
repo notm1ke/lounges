@@ -2,8 +2,10 @@ name: Chase Sapphire Lounge
 slug: phl-chase-sapphire-lounge-d
 location: Concourse D, Connector between Concourses D-E, between Vino Volo and Dunkin
 access:
-  - credential: priority_pass
+  - credential: chase_sapphire_reserve
     restrictions: null
+  - credential: priority_pass
+    restrictions: One visit per year
   - credential: lounge_key
     restrictions: null
 allowsArrivals: false

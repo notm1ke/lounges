@@ -3,8 +3,10 @@ slug: phx-chase-sapphire-lounge-d11
 location: Terminal 4, South 1 Concourse, near gate D11, opposite The Crystals @
   Sky Harbor
 access:
-  - credential: priority_pass
+  - credential: chase_sapphire_reserve
     restrictions: null
+  - credential: priority_pass
+    restrictions: One visit per year
   - credential: lounge_key
     restrictions: null
 allowsArrivals: false

@@ -2,8 +2,10 @@ name: Chase Sapphire Lounge
 slug: lga-chase-sapphire-lounge-b
 location: Terminal B, near Brooklyn Diner and gates 41-59
 access:
-  - credential: priority_pass
+  - credential: chase_sapphire_reserve
     restrictions: null
+  - credential: priority_pass
+    restrictions: One visit per year
   - credential: lounge_key
     restrictions: null
 allowsArrivals: false

@@ -2,8 +2,10 @@ name: Chase Sapphire Lounge
 slug: san-chase-sapphire-lounge-t2-46
 location: Terminal 2, near gates 46-47, mezzanine level
 access:
-  - credential: priority_pass
+  - credential: chase_sapphire_reserve
     restrictions: null
+  - credential: priority_pass
+    restrictions: One visit per year
   - credential: lounge_key
     restrictions: null
 allowsArrivals: false
