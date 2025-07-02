@@ -1,6 +1,6 @@
 name: The Centurion Lounge
-slug: sfo-centurion-lounge-f1
-location: Terminal 3, Concourse F, near gate F1
+slug: sfo-centurion-lounge-d12
+location: Terminal 2, Concourse D, located right after security, near gate D12
 access:
   - credential: amex_centurion
     restrictions: null
@@ -17,9 +17,9 @@ operator: American Express
 alliance: None
 allianceLevel: None
 allianceMembers: []
-latitude: "37.617261147191066"
-longitude: "-122.38793134689332"
-terminal: Terminal 3
+latitude: "37.6171699"
+longitude: "-122.3827073"
+terminal: Terminal 2
 hours:
   days:
     - day: Monday
@@ -62,4 +62,4 @@ foodOptions:
 drinks:
   - Complimentary Soft Drinks
   - Complimentary Full Bar
-closed: true
+closed: false
